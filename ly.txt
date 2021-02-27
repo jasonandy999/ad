@@ -1,0 +1,286 @@
+[Adblock Plus 2.0]
+! Checksum: z202102272239
+! Version: 202102272239
+! Title: 舒仪广告规则0227
+
+!- 1090影视,蒙面大侠,8号影视,真不卡影院,乌龟影院 -!
+1090ys2.com,98bbw.com##[src="https://ae02.alicdn.com/kf/H5acba046a88244448aac79e870e48cdaS.jpg"]
+1090ys2.com,98bbw.com##[src="  https://ae03.alicdn.com/kf/Hbc20c13a36834c0392469ff945be32bcJ.jpg"]
+1090ys2.com,98bbw.com##[src="https://ae03.alicdn.com/kf/Hd094f3e0557e494c955a9b4ed85db3b8z.jpg"]
+www.zhenbuka.com,www.zhenbuka1.com##[src="https://ae01.alicdn.com/kf/Ucda5d98dc520472aaaea602e61c393774.jpg"]
+www.zhenbuka.com,www.zhenbuka1.com##[src="https://alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/customer-upload/1610435846553_2gonx4ptuj2c.png"]
+www.zhenbuka.com,www.zhenbuka1.com##[src="https://pic.nixingle.com/img/upload/gg/gg20201229.gif"]
+www.zhenbuka.com,www.zhenbuka1.com##a[href="https://mdapp03.com/"]
+www.zhenbuka.com,www.zhenbuka1.com##[src="https://alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/customer-upload/1598528191440_fagyti7swh4b.gif"]
+www.zhenbuka.com,www.zhenbuka1.com##[src="https://pic.caihong52.com/img/upload/gg/gg20201229.gif"]
+www.zhenbuka.com,www.zhenbuka1.com##[src="https://bj.bcebos.com/im-cs/79fb7a5e77433a8760e4ba703ef71154.png"]
+www.zhenbuka.com,www.zhenbuka1.com##[src="https://alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/customer-upload/1612281603650_2v32nlvhji9h.gif"]
+  !--首页公告--!
+1090ys2.com,98bbw.com,mengmiandaxia.com,www.zhenbuka.com,www.zhenbuka1.com##.clearfix.stui-pannel-box > .stui-pannel_hd
+www.8hdyy.com##.stui-pannel_bd > .clearfix.col-pd
+  !--首页文字公告--!
+www.wuguiyy.com##font
+  !--首页弹窗广告公告--!
+1090ys2.com,98bbw.com,mengmiandaxia.com,www.zhenbuka.com,www.zhenbuka1.com,www.wuguiyy.com,www.shenma4480.com###globalAd
+  !--检测拦截弹窗广告--!
+1090ys2.com,98bbw.com,mengmiandaxia.com,www.wuguiyy.com##.addkillcont
+www.zhenbuka.com,www.zhenbuka1.com##.jq-toast-wrap
+  !--首页弹窗黑色背景--!
+1090ys2.com,98bbw.com,mengmiandaxia.com,www.zhenbuka.com,www.zhenbuka1.com,www.wuguiyy.com,www.shenma4480.com##.layer
+  !--首页友情连接--!
+1090ys2.com,98bbw.com,mengmiandaxia.com,www.zhenbuka.com,www.zhenbuka1.com,www.wuguiyy.com##.clearfix.stui-link__text
+!1090ys2.com,98bbw.com##.clearfix.stui-pannel_bd > .col-xs-1
+!1090ys2.com,98bbw.com##.padding-0.col-xs-1.col-lg-wide-8 > p
+  !---播放页面提示语，文字，下载---!
+1090ys2.com,98bbw.com,mengmiandaxia.com##.app-download
+||www.8hdyy.com/statics/api/js/view/share_view.js
+*/bbk/p.js
+www.zhenbuka.com,www.zhenbuka1.com##marquee
+/loadingbk.html
+/buffer.html
+
+
+!-TVB云播-!
+  !---播放页面提示语---!
+www.hktvyb.com##.close-box.tips
+
+!-九九电影，CK电影，飘花电影-!
+  !---播放页面提示语---!
+www.btzj.cc,3edy.com##.html5plus-hide.clearfix.col-pd
+
+!-万影网-!
+  !--首页公告--!
+www.yst3.com##.alert-success.announcement
+  !--- 临时 ---!
+/jsplayer/*.js
+
+!-4K屋-!
+  !--首页文字公告--!
+www.kkkkwu.com,m.kkkkwu.com##div.row:nth-of-type(2)
+
+!-8号影院--!
+  !--首页文字公告--!
+8hdyy.com##.stui-pannel-box > .stui-pannel_bd
+
+!-南瓜电影www.nangua55.com--!
+www.nangua55.com##[href="https://mp.weixin.qq.com/s/PMYefagPezm2buL4UyR6eg"]
+  !--杂项--!
+|api.longdidi.top/load.html
+||8ljr.com^
+||k.13hangpifa.com^
+||tp.vinuxhome.com^
+||tj.tianwenhu.com^
+||mav.mavuz.com^
+||www.baihuillq.com^
+||v1.7cyd.com^
+||ck.jssdk.top^
+||xdn.cqqc3.com^
+||um.cavuc.com^
+||tips.gamevvip.com^
+||g.longdidi.top
+
+
+@@||api.longdidi.top^
+@@||titan.mgtv.com.parwix.com
+@@||*.parwix.com
+
+!-片库影视-！
+  !---片库影视播放倒计时---!
+www.pianku.li,m.pianku.li,mypianku.com,m.mypianku.com##+js(set, pycount,0)
+
+!-奈菲影视-!
+  !--奈菲影视头部广告文字--!
+www.nfmovies.com##div.container.myui-ra-container > .row
+  !---奈菲影视播放倒计时---!
+www.nfmovies.com##header:style(position: absolute!important)
+www.nfmovies.com##+js(acis, $myui, probe)
+www.nfmovies.com##+js(set,initAd,noopFunc)
+www.nfmovies.com##+js(set,adTime,0)
+www.nfmovies.com##+js(nostif, container)
+www.nfmovies.com,bde4.cc##body > div.hidden-xs
+!-naifei.shop-!
+||www.nfmovies.com/pic/tu/$image
+||www.nfmovies.com/static/$image
+
+!-555影视-!
+www.o8tv.com##.hl-home-nano.container
+www.o8tv.com##.close-box.tips
+www.o8tv.com###playlist > .clearfix.hl-rb-head
+www.o8tv.com##.hl-.stui-pannel__foot,text-white.hl-this-box.hl-player-notice
+
+!-骑士影院-!
+www.mmaayy.com##.clearfix.ylink
+
+!-----88影院www.88kan.com----!
+  !--首页广告--!
+www.88kan.com,m.88kan.com##.main > [href="https://www.88ys.app"]
+/js/606.tt.js?
+
+!-思古影视 www.siguyy.com -!
+www.siguyy.com##.clearfix.myui-panel-bg2.active.myui-panel
+||api.weibo.com^
+|https://www.siguyy.com/prestrain.html
+|*/html/top10.js
+@@||pcvideoydott.titan.mgtv.com
+@@||jx.siguyy.com/?url=*
+@@||titan.mgtv.com.siguyy.com/?url=*
+@@||titan.mgtv.com.siguyy.com/analysis.*
+@@||q.siguyy.com/m3u8.*
+
+!-电影天堂 http://www.k1k.cc -!
+  !--手机模式首页头部文字 --!
+m.k1k.cc##.profile_desc
+  !--首页底部JS--!
+||bjsxljs.com^$script
+||xgxhy.com^$script
+||fulevmy.com^$script
+  !--在线播放页面第一格APP空格--!
+k1k.cc,www.k1k.cc,m.k1k.cc##[href="http://k1k.cc/app"]
+@@||dytt.akqipai.com/upload/img/*$image,domain=www.k1k.cc,m.k1k.cc
+
+!-泡饭影视网www.paofans.com--!
+  !--弹窗+背景图--!
+www.paofans.com,paofans.com##.layui-layer-rim.layui-layer-page.layui-layer,.layui-layer-shade
+  !--播放页面左上角文字提示 --!
+www.paofans.com,paofans.com##.close-box.tips
+
+!-神马影院www.shenma4480.com-!
+  !--播放界面下载APP文字--!
+www.shenma4480.com##[href="http://app.wuguiyy.com/app/"]
+
+!-孤单影院www.hanmiys.com/gudanys.com-!
+  !--弹窗+背景图--!
+www.hanmiys.com,gudanys.com##.layui-layer-rim.layui-layer-page.layui-layer,.layui-layer-shade
+  !--首页文字公告--!
+www.hanmiys.com,gudanys.com##.clearfix.myui-panel-bg2.active.myui-panel > .clearfix.myui-panel-box
+  !--播放源上面文字广告--!
+www.hanmiys.com,gudanys.com##.col-pd.text-muted
+  !--播放页面下方文字广告--!
+www.hanmiys.com,gudanys.com##.myui-panel_bd > .col-xs-1,.close-box.tips,.mb10.col-pd
+
+!-9亿看看http://www.9ekk.com-!
+  !--播放页面播放器上面提示--!
+www.9ekk.com##.close-box.tips
+  !--播放页面播放源上面文字广告--!
+www.9ekk.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > section
+
+!-简影影视https://tv.syrme.top/-!
+  !--播放页面脚--!
+tv.syrme.top##.D03.DF.Rows
+tv.syrme.top##.like-list
+  !--多余的栏目标签--!
+tv.syrme.top###btn
+
+!-大师兄影视https://zz.ci/-!
+  !--弹窗+背景图--!
+zz.ci##.hl-bg-site.hl-poptips-wrap
+zz.ci##.hl-pops-bg-active.hl-pops-bg
+  !--播放列表跑马灯文字提示--!
+zz.ci##.hl-text-muted.hl-notice-box.hl-rb-tips
+  !--播放器上下滚动文字提示--!
+zz.ci##.hl-text-white.hl-this-box.hl-player-notice
+  !--播放时候图片广告--!
+zz.ci##.player_pause
+  !--手机模式多余栏目标签--!
+zz.ci##li.hl-menus-item > [href="https://zz.ci/app"]
+zz.ci##li.hl-fn-item > [href="https://zz.ci/app"]
+  !--电脑模式多余栏目标签--!
+zz.ci##li.hl-slide-swiper.hl-nav-item > [href="https://zz.ci/app"]
+  !--播放器APP播放源--!
+zz.ci##.clearfix.swiper-wrapper.hl-tabs.hl-plays-from > .swiper-slide-active.active.hl-slide-swiper.hl-tabs-btn
+zz.ci##.clearfix.swiper-wrapper.hl-tabs.hl-plays-from > .swiper-slide-next.hl-slide-swiper.hl-tabs-btn
+  !--播放列表APP播放源--!
+zz.ci##.swiper-slide-active.active.hl-slide-swiper.hl-tabs-btn
+zz.ci##.swiper-slide-active.hl-slide-swiper.hl-tabs-btn
+
+!-在线之家https://www.zxzj.me-!
+  !--播放器载入图片--!
+||ww2.sinaimg.cn/large/0060lm7Tly1fp5smu5hjxg30m80dcwxz.gif$image
+  
+!-宅看影视www.zhaikanys.com-!
+  !--弹窗+背景图--!
+
+
+!-四虎影院4hu.tv -!
+*/js/ss.html
+*/content/system.html
+*/js/tj.js
+*/js/logo.js
+
+
+!--杂项--!
+||*/view/share_view.js?v=*.js
+||*/base/tangram.js?v=*.js
+||*/js/share.js?cdnversion=*
+||*/hits?mid=1&id=*&type=update
+||*/js/bbk/*.js?
+||*/jk/toubu.js
+||*/v.mp4$script
+||update.
+||alightin.com^
+||weizhenwx.com^
+||sasoo.cn^
+||metro114.com^
+||zzyanhushi.com^
+||baidu.jintuomcc.com^
+||jsjb.cc^
+||thunderurl.com^
+||m2.birthcaker.cn^
+|http://www.hanmiys.com/play/?url=MIz5eOD=qQaVvZS2eVV1ZPXOwY=vkXSrxKUmvIo5jHmtFSUBHHCw=EpFHSQmHRS98ZEmDOiHBLwbZFQGGS4Y0OXZ1J1lREgcGHZEwThOaNjlHWHiLRSGvRhDsBxqQXpdJR2t3PmRS-woQMIJHWQirOkRHQkmVWBPGUCf8CiWRJmlUNWV6SVVBFQQfNJ5RbyuBRTheXkOaLPvfMy3oJjadLFdlJFMnV3VeLPPw=qA0a=hqUlArQWR5I=utMf249AB1J1Y2HiDv&next=/video/131439-3-8.html
+|http://app.yiranleng.top/hanmiys/od/JUU1JTlCJUJEJUU0JUJBJUE3JUU1JTg5JUE3JTJGJUU3JThFJUIyJUU3JThGJTkxJTJGJUU3JThFJUIyJUU3JThGJTkxJUU3JUFDJUFDMDclRTklOUIlODY=/c7adffa98f527cfae446d7d98ba92e80/1614409077/
+|https://img14.360buyimg.com/ddimg/jfs/t1/146069/9/10521/54253/5f831bb2Ef3992c15/2b6baff2a41c6e69.jpg
+|https://data.video.iqiyi.com/v.mp4
+|http://data.video.iqiyi.com/v.mp4
+||translate.google.cn^
+
+
+www.right.com.cn##[href^="https://jd.dangbei.com/jsjs/"]
+|https://www.163kp.com/upload/files/up/
+!------423down-----!
+www.423down.com##h2 > [href^="https://mp.weixin.qq.com/s"] > span
+www.423down.com##[href="https://mp.weixin.qq.com/s/y5S0p25jKZvNbIxZ0B-2aQ"] > span
+
+!--解析电影网址白名单--!
+@@||hls.syrme.top^$xhr
+@@||sf1-ttcdn-tos.pstatp.com^$xhr
+@@||wy.bigmao.top^$xhr
+
+
+!------白名单-----!
+@@||s1.ax1x.com^$image
+@@||s2.ax1x.com^$image
+@@||s3.ax1x.com^$image
+@@||s4.ax1x.com^$image
+@@||s5.ax1x.com^$image
+@@||s6.ax1x.com^$image
+@@||*.918848.xyz^
+@@||zly86.918848.xyz^
+@@||zly87.918848.xyz^
+@@||zly88.918848.xyz^
+@@||*.luyou.gocloud.cn^
+@@||*.gocloud.cn^
+@@||instant.page^
+@@||192.168.*.1
+@@||instant.page^
+@@||weixin.qq.com^
+@@||918848.xyz^
+!---DOH与DOT图白名单----!
+@@||i.233py.com^$important
+@@||dns.alidns.com^$important
+@@||doh.pub^$important
+@@||dns.pub^$important
+@@||223.5.5.5^$important
+@@||223.6.6.6^$important
+@@||doh.360.cn^$important
+@@||dns.twnic.tw^$important
+@@||dns.google^$important
+@@||dns.quad9.net^$important
+@@||dns11.quad9.net^$important
+@@||doh.opendns.com^$important
+@@||cloudflare-dns.com^$important
+@@||1.0.0.1^$important
+@@||dns.adguard.com^$important
+@@||doh.dns.sb^$important
+@@||public.dns.iij.jp^$important
+@@||doh-jp.blahdns.com^$important
+@@||dgz.rubyfish.cn^$important
