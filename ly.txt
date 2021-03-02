@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z202103030042
-! Version: 202103030042
+! Checksum: z202103030111
+! Version: 202103030111
 ! Title: 舒仪广告规则0303
 
 !- 1090影视,蒙面大侠,8号影视,真不卡影院,乌龟影院 -!
@@ -83,7 +83,8 @@ www.nfmovies.com##+js(acis, $myui, probe)
 www.nfmovies.com##+js(set,initAd,noopFunc)
 www.nfmovies.com##+js(set,adTime,0)
 www.nfmovies.com##+js(nostif, container)
-www.nfmovies.com,bde4.cc##body > div.hidden-xs
+www.nfmovies.com##body > div.hidden-xs
+www.nfmovies.com##.hidden-xs
 !-naifei.shop-!
 ||www.nfmovies.com/pic/tu/$image
 ||www.nfmovies.com/static/$image
