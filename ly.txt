@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z202103071646
-! Version: 202103071646
+! Checksum: z202103071659
+! Version: 202103071659
 ! Title: 舒仪广告规则0307
 
 !- 1090影视,蒙面大侠,8号影视,真不卡影院,乌龟影院 -!
@@ -236,6 +236,13 @@ www.pianba.net,pianba.net###aliyun
 ||jsjb.cc^
 ||thunderurl.com^
 ||m2.birthcaker.cn^
+||client.crisp.chat^
+||img.dubyc.com^
+||um.mavnv.com^
+||shuow.meituangov.cn^
+||chay.maqq.cn^
+||xn--3bs795g.chat^
+
 |http://www.hanmiys.com/play/?url=MIz5eOD=qQaVvZS2eVV1ZPXOwY=vkXSrxKUmvIo5jHmtFSUBHHCw=EpFHSQmHRS98ZEmDOiHBLwbZFQGGS4Y0OXZ1J1lREgcGHZEwThOaNjlHWHiLRSGvRhDsBxqQXpdJR2t3PmRS-woQMIJHWQirOkRHQkmVWBPGUCf8CiWRJmlUNWV6SVVBFQQfNJ5RbyuBRTheXkOaLPvfMy3oJjadLFdlJFMnV3VeLPPw=qA0a=hqUlArQWR5I=utMf249AB1J1Y2HiDv&next=/video/131439-3-8.html
 |http://app.yiranleng.top/hanmiys/od/JUU1JTlCJUJEJUU0JUJBJUE3JUU1JTg5JUE3JTJGJUU3JThFJUIyJUU3JThGJTkxJTJGJUU3JThFJUIyJUU3JThGJTkxJUU3JUFDJUFDMDclRTklOUIlODY=/c7adffa98f527cfae446d7d98ba92e80/1614409077/
 |https://img14.360buyimg.com/ddimg/jfs/t1/146069/9/10521/54253/5f831bb2Ef3992c15/2b6baff2a41c6e69.jpg
