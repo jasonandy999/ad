@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z202103030111
-! Version: 202103030111
-! Title: 舒仪广告规则0303
+! Checksum: z202103071646
+! Version: 202103071646
+! Title: 舒仪广告规则0307
 
 !- 1090影视,蒙面大侠,8号影视,真不卡影院,乌龟影院 -!
 1090ys2.com,98bbw.com##[src="https://ae02.alicdn.com/kf/H5acba046a88244448aac79e870e48cdaS.jpg"]
@@ -88,17 +88,21 @@ www.nfmovies.com##.hidden-xs
 !-naifei.shop-!
 ||www.nfmovies.com/pic/tu/$image
 ||www.nfmovies.com/static/$image
+
 !-555影视-!
 www.o8tv.com##.hl-home-nano.container
 www.o8tv.com##.close-box.tips
 www.o8tv.com###playlist > .clearfix.hl-rb-head
 www.o8tv.com##.hl-.stui-pannel__foot,text-white.hl-this-box.hl-player-notice
+
 !-骑士影院-!
-www.mmaayy.com##.clearfix.ylink
+www.mmaayy.com##.clearfix.ylink\
+
 !-----88影院www.88kan.com----!
   !--首页广告--!
 www.88kan.com,m.88kan.com##.main > [href="https://www.88ys.app"]
 /js/606.tt.js?
+
 !-思古影视 www.siguyy.com -!
 www.siguyy.com##.clearfix.myui-panel-bg2.active.myui-panel
 ||api.weibo.com^
@@ -127,27 +131,33 @@ www.paofans.com,paofans.com##.close-box.tips
 !-神马影院www.shenma4480.com-!
   !--播放界面下载APP文字--!
 www.shenma4480.com##[href="http://app.wuguiyy.com/app/"]
+
 !-孤单影院www.hanmiys.com/gudanys.com-!
-www.hanmiys.com,gudanys.com##.layui-layer-rim.layui-layer-page.layui-layer,.layui-layer-shade
-www.hanmiys.com,gudanys.com##.clearfix.myui-panel-bg2.active.myui-panel > .clearfix.myui-panel-box
+www.hanmiys.com,gudanys.com,www.gudanys.com##.layui-layer-rim.layui-layer-page.layui-layer,.layui-layer-shade
+www.hanmiys.com,gudanys.com,www.gudanys.com##.clearfix.myui-panel-bg2.active.myui-panel > .clearfix.myui-panel-box
   !--播放源上面文字广告--!
 www.hanmiys.com,gudanys.com##.col-pd.text-muted
   !--播放页面下方文字广告--!
 www.hanmiys.com,gudanys.com##.myui-panel_bd > .col-xs-1,.close-box.tips,.mb10.col-pd
+
 !-9亿看看http://www.9ekk.com-!
   !--播放页面播放器上面提示--!
 www.9ekk.com##.close-box.tips
   !--播放页面播放源上面文字广告--!
-www.9ekk.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > section
-!-简影影视https://tv.syrme.top/-!
+www.9ekk.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > section\
+
+!-简影影视https://tv.syrme.top-!
   !--播放页面脚--!
 tv.syrme.top##.D03.DF.Rows
 tv.syrme.top##.like-list
   !--多余的栏目标签--!
 tv.syrme.top###btn
-!-大师兄影视https://zz.ci/-!
+
+!-大师兄影视https://zz.ci-!
 zz.ci##.hl-bg-site.hl-poptips-wrap
 zz.ci##.hl-pops-bg-active.hl-pops-bg
+  !--手机模式首页文字跑马灯--!
+zz.ci##.hl-notice-item
   !--播放列表跑马灯文字提示--!
 zz.ci##.hl-text-muted.hl-notice-box.hl-rb-tips
   !--播放器上下滚动文字提示--!
@@ -165,11 +175,44 @@ zz.ci##.clearfix.swiper-wrapper.hl-tabs.hl-plays-from > .swiper-slide-next.hl-sl
   !--播放列表APP播放源--!
 zz.ci##.swiper-slide-active.active.hl-slide-swiper.hl-tabs-btn
 zz.ci##.swiper-slide-active.hl-slide-swiper.hl-tabs-btn
+
 !-在线之家https://www.zxzj.me-!
   !--播放器载入图片--!
 ||ww2.sinaimg.cn/large/0060lm7Tly1fp5smu5hjxg30m80dcwxz.gif$image
   
 !-宅看影视www.zhaikanys.com-!
+
+!-cokemv影视https://cokemv.cn,www.cokemv.cn-!
+  !--首页文字广告--!
+cokemv.cn,www.cokemv.cn##.list-paddingleft-2
+  !--播放器文字提示--!
+cokemv.cn,www.cokemv.cn##.close-box.tips
+  !--首页弹窗背景+弹窗文字--!
+cokemv.cn,www.cokemv.cn##.layui-layer-shade
+cokemv.cn,www.cokemv.cn##.layui-layer-page.layui-layer
+
+!-欧亚影视 oy37.com-!
+||zz.bdstatic.com^
+||s.360.cn/so/*$image
+||static.zz-baidu.com^$script
+  !--手机模式下豆瓣文字栏目--!
+www.oy37.com,oy37.com##.fontlist.card
+  !--首页公告广告文字--!
+www.oy37.com,oy37.com##.show.fade.alert-dismissible.alert-info.alert
+  !--首页尾部百度搜索--!
+www.oy37.com,oy37.com##.sousuo
+
+!-阿房影视https://bwl87.com,www.bwl87.com-!
+||js.handanxinkai.com^
+  !--播放器页面文字提示--!
+bwl87.com,www.bwl87.com##.tips.close-box
+  !--首页APP栏目--!
+bwl87.com,www.bwl87.com##li.hidden-xs.hidden-sm.hidden-md > [href="/app/app.html"]
+
+!-片吧影视https://www.pianba.net-!
+  !--手机模式下浏览器下方图片弹窗--!
+www.pianba.net,pianba.net###aliyun
+
 !-四虎影院4hu.tv -!
 */js/ss.html
 */content/system.html
