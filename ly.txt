@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z202103091451
-! Version: 202103091451
+! Checksum: z202103091458
+! Version: 202103091458
 ! Title: 舒仪广告规则0309
 
 !- 1090影视,蒙面大侠,8号影视,真不卡影院,乌龟影院 -!
@@ -15,6 +15,7 @@ www.zhenbuka.com,www.zhenbuka1.com##[src="https://alime-customer-upload-cn-hangz
 www.zhenbuka.com,www.zhenbuka1.com##[src="https://pic.caihong52.com/img/upload/gg/gg20201229.gif"]
 www.zhenbuka.com,www.zhenbuka1.com##[src="https://bj.bcebos.com/im-cs/79fb7a5e77433a8760e4ba703ef71154.png"]
 www.zhenbuka.com,www.zhenbuka1.com##[src="https://alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/customer-upload/1612281603650_2v32nlvhji9h.gif"]
+@@||www.zhenbuka.com/extend/tncode/*$stylesheet
   !--首页公告--!
 1090ys2.com,98bbw.com##.dfg-layout.col-sm-12
 1090ys2.com,98bbw.com,mengmiandaxia.com,www.zhenbuka.com,www.zhenbuka1.com##.clearfix.stui-pannel-box > .stui-pannel_hd
