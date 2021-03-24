@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z202103250235
-! Version: 202103250235
+! Checksum: 202103250247
+! Version: 202103250247
 ! Title: 舒仪广告规则0325
 
 !- 1090影视,蒙面大侠,8号影视,真不卡影院,乌龟影院 -!
@@ -73,6 +73,7 @@ www.nangua55.com##[href="https://mp.weixin.qq.com/s/PMYefagPezm2buL4UyR6eg"]
 ||g.longdidi.top
 @@||api.longdidi.top^
 @@||titan.mgtv.com.parwix.com
+@@||titan.mgtv.com.paofans.tv
 @@||*.parwix.com
 !-片库影视-！
   !---片库影视播放倒计时---!
@@ -266,7 +267,7 @@ www.423down.com##h2 > [href^="https://mp.weixin.qq.com/s"] > span
 www.423down.com##[href="https://mp.weixin.qq.com/s/y5S0p25jKZvNbIxZ0B-2aQ"] > span
 !--解析电影网址白名单--!
 @@||hls.syrme.top^$xhr
-@@||sf1-ttcdn-tos.pstatp.com^$xhr
+@@||sf1-ttcdn-tos.paofans.tv^$xhr
 @@||wy.bigmao.top^$xhr
 !------白名单-----!
 @@||s1.ax1x.com^$image
