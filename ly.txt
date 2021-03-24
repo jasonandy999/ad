@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z202103250308
-! Version: 202103250308
+! Checksum: z202103250316
+! Version: 202103250316
 ! Title: 舒仪广告规则0325
 
 !- 1090影视,蒙面大侠,8号影视,真不卡影院,乌龟影院 -!
@@ -132,11 +132,12 @@ k1k.cc,www.k1k.cc,m.k1k.cc##[href="http://k1k.cc/app"]
 www.ak1080.com##[href="https://www.ak1080.com/"]
 !-泡饭影视网paofans.tv--!
   !--首页文字广告--!
-www.paofans.tv,paofans.tv,m.paofans.tv##.ads-all.ads > div
+paofans.tv##.ads-all.ads > div
   !--弹窗+背景图--!
-www.paofans.tv,paofans.tv,m.paofans.tv##.layui-layer-rim.layui-layer-page.layui-layer,.layui-layer-shade
+paofans.tv##.hl-pops-bg-active.hl-pops-bg
+paofans.tv##.hl-bg-site.hl-poptips-wrap
   !--播放页面左上角文字提示 --!
-www.paofans.tv,paofans.tv,m.paofans.tv##.close-box.tips
+paofans.tv##.close-box.tips
 !-神马影院www.shenma4480.com-!
   !--播放界面下载APP文字--!
 www.shenma4480.com##[href="http://app.wuguiyy.com/app/"]
