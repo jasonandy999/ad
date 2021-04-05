@@ -1,15 +1,23 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004060416
-! Version: 2021004060416
+! Checksum: z2021004060443
+! Version: 2021004060443
 ! Title: 舒仪广告规则0406
 
 !- 4399d电影网 4399d.com -!
 ||static.duoshuo.com^$script
+@@||https://ts*.lslkkyj.com
+@@||ts*.lslkkyj.com
+@@||https://ts*.hhmm0.com
+@@||ts*.hhmm0.com
+@@||https://vod5.wenshibaowenbei.com
+@@||vod*.wenshibaowenbei.com
 
 !- 极速电影网 http://www.etours.tv -!
 ||lylifa.com^
 ||zhizhunbao.top^
-@@||v3.dious.cc
+||new.163.com^$media
+@@||v*.dious.cc
+@@||htts://v*.dious.cc
 www.etours.tv##.close-box.tips
 www.etours.tv##.clearfix.myui-panel-box > .clearfix.col-pd
 
