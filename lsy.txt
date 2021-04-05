@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004060458
-! Version: 2021004060458
+! Checksum: z2021004060505
+! Version: 2021004060505
 ! Title: 舒仪广告规则0406
 
 !- 4399d电影网 4399d.com -!
@@ -19,9 +19,8 @@
 @@||v*.dious.cc
 @@||htts://v*.dious.cc
 www.etours.tv##.close-box.tips
-www.etours.tv##.nav-tabs
-www.etours.tv###yrcma5214
-www.etours.tv###fsdg11223
+www.etours.tv###yrcma5214 > video
+www.etours.tv###fsdg11223 > video
 
 !- 1090影视,蒙面大侠,8号影视,真不卡影院,乌龟影院 -!
 1090ys2.com,98bbw.com##[src="https://ae02.alicdn.com/kf/H5acba046a88244448aac79e870e48cdaS.jpg"]
