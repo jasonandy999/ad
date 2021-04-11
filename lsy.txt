@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004060540
-! Version: 2021004060540
-! Title: 舒仪广告规则0406
+! Checksum: z2021004120341
+! Version: 2021004120341
+! Title: 舒仪广告规则0412
 
 !- 4399d电影网 4399d.com -!
 www.4399d.com###yy602
@@ -144,6 +144,9 @@ www.88kan.com,m.88kan.com##.main > [href="https://www.88ys.app"]
 
 !-思古影视 www.siguyy.com -!
 www.siguyy.com##.clearfix.myui-panel-bg2.active.myui-panel
+  !--背景+弹窗--!
+www.siguyy.com##.layui-layer-shade
+www.siguyy.com##.layui-layer-rim.layui-layer-page.layui-layer
 ||api.weibo.com^
 |https://www.siguyy.com/prestrain.html
 |*/html/top10.js
