@@ -1,7 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004120341
-! Version: 2021004120341
-! Title: 舒仪广告规则0412
+! Checksum: z2021004140250
+! Version: 2021004140250
+! Title: 舒仪广告规则0414
+
+!- 通用弹窗+背景 -!
+##.layui-layer-shade
 
 !- 4399d电影网 4399d.com -!
 www.4399d.com###yy602
@@ -60,6 +63,7 @@ www.8hdyy.com##.stui-pannel_bd > .clearfix.col-pd
 www.wuguiyy.com##font
   !--首页弹窗广告公告--!
 1090ys2.com,98bbw.com,mengmiandaxia.com,www.zhenbuka.com,www.zhenbuka1.com,www.wuguiyy.com,www.shenma4480.com###globalAd
+1090ys2.com,98bbw.com,mengmiandaxia.com,www.zhenbuka.com,www.zhenbuka1.com,www.wuguiyy.com,www.shenma4480.com##.layui-layer-dialog.layui-layer
   !--检测拦截弹窗广告--!
 1090ys2.com,98bbw.com,mengmiandaxia.com,www.wuguiyy.com##.addkillcont
 www.zhenbuka.com,www.zhenbuka1.com##.jq-toast-wrap
@@ -77,9 +81,30 @@ www.zhenbuka.com,www.zhenbuka1.com##marquee
 /loadingbk.html
 /buffer.html
 
+!--1090电影解析域名白名单--!
+@@||jxys2.mintehao.com
+
+!首页头部大图轮播上面图片广告
+1090ys2.com,98bbw.com##.clearfix.stui-pannel-bg.stui-pannel > p
+!电影介绍页面头部广告
+1090ys2.com,98bbw.com##[href="http://ayxbet846.vip"]
+!电影介绍中段广告
+1090ys2.com,98bbw.com##.padding-0.col-xs-1.col-lg-wide-8 > p
+!首页头部图片轮播加文字广告
+1090ys2.com,98bbw.com##.clearfix.stui-pannel-bg.stui-pannel > div.clearfix.stui-pannel-bg.stui-pannel
+!分类头部图片广告
+1090ys2.com,98bbw.com##[href="http://1090zy.com/"]
+!播放器头顶文字提醒
+1090ys2.com,98bbw.com##.center
+
 !-TVB云播-!
+  !---首页中段图片广告---!
+www.hktvyb.com##[href^="https://hth104.com/register/"]
+  !---播放页面播放器下面图片广告---!
+www.hktvyb.com##[href^="https://9980yb.com/register/"]
   !---播放页面提示语---!
 www.hktvyb.com##.close-box.tips
+
 !-九九电影，CK电影，飘花电影-!
 www.btzj.cc,3edy.com##.html5plus-hide.clearfix.col-pd
 !-万影网-!
