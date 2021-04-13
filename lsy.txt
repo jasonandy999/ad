@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004140250
-! Version: 2021004140250
+! Checksum: z2021004140315
+! Version: 2021004140315
 ! Title: 舒仪广告规则0414
 
 !- 通用弹窗+背景 -!
@@ -51,7 +51,7 @@ www.zhenbuka.com,www.zhenbuka1.com##a[href="https://mdapp03.com/"]
 www.zhenbuka.com,www.zhenbuka1.com##a[href="https://www.ybvip1879.vip"]
 www.zhenbuka.com,www.zhenbuka1.com##[src="https://alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/customer-upload/1598528191440_fagyti7swh4b.gif"]
 www.zhenbuka.com,www.zhenbuka1.com##[src="https://pic.caihong52.com/img/upload/gg/gg20201229.gif"]
-www.zhenbuka.com,www.zhenbuka1.com##[src="https://bj.bcebos.com/im-cs/79fb7a5e77433a8760e4ba703ef71154.png"]
+www.zhenbuka.com,www.zhenbuka1.com##[src="https://yzf.qq.com/fsnb/kf-file/kf_pic/20210412/KFPIC_1218208844_WXIMAGE_66122ef1245747f097b7cedcbb298910.gif"]
 www.zhenbuka.com,www.zhenbuka1.com##[src="https://alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/customer-upload/1612281603650_2v32nlvhji9h.gif"]
 www.zhenbuka.com,www.zhenbuka1.com###yb112
 @@||www.zhenbuka.com/extend/tncode/*$stylesheet
@@ -80,6 +80,8 @@ www.zhenbuka.com,www.zhenbuka1.com##.jq-toast-wrap
 www.zhenbuka.com,www.zhenbuka1.com##marquee
 /loadingbk.html
 /buffer.html
+www.zhenbuka.com###ad01
+/gg/*.js?
 
 !--1090电影解析域名白名单--!
 @@||jxys2.mintehao.com
