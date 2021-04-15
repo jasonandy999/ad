@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004152226
-! Version: 2021004152226
-! Title: 舒仪广告规则0414
+! Checksum: z2021004152228
+! Version: 2021004152228
+! Title: 舒仪广告规则0415
 
 !- 通用弹窗+背景 -!
 ##.layui-layer-shade
