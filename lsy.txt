@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004152228
-! Version: 2021004152228
+! Checksum: z2021004152238
+! Version: 2021004152238
 ! Title: 舒仪广告规则0415
 
 !- 通用弹窗+背景 -!
@@ -98,6 +98,8 @@ www.zhenbuka.com###ad01
 1090ys2.com##[href="http://1090zy.com/"]
 !播放器头顶文字提醒
 1090ys2.com##.center
+!搜索页面头顶图片
+1090ys2.com##[href="http://htbet1536.com"]
 
 !-TVB云播-!
   !---首页中段图片广告---!
