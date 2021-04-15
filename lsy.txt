@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004140315
-! Version: 2021004140315
+! Checksum: z2021004152226
+! Version: 2021004152226
 ! Title: 舒仪广告规则0414
 
 !- 通用弹窗+背景 -!
@@ -87,17 +87,17 @@ www.zhenbuka.com###ad01
 @@||jxys2.mintehao.com
 
 !首页头部大图轮播上面图片广告
-1090ys2.com,98bbw.com##.clearfix.stui-pannel-bg.stui-pannel > p
+1090ys2.com##.clearfix.stui-pannel-bg.stui-pannel > p
 !电影介绍页面头部广告
-1090ys2.com,98bbw.com##[href="http://ayxbet846.vip"]
+1090ys2.com##[href="http://ayxbet846.vip"]
 !电影介绍中段广告
-1090ys2.com,98bbw.com##.padding-0.col-xs-1.col-lg-wide-8 > p
+1090ys2.com##.padding-0.col-xs-1.col-lg-wide-8 > p
 !首页头部图片轮播加文字广告
-1090ys2.com,98bbw.com##.clearfix.stui-pannel-bg.stui-pannel > div.clearfix.stui-pannel-bg.stui-pannel
+1090ys2.com##.clearfix.stui-pannel-bg.stui-pannel > div.clearfix.stui-pannel-bg.stui-pannel
 !分类头部图片广告
-1090ys2.com,98bbw.com##[href="http://1090zy.com/"]
+1090ys2.com##[href="http://1090zy.com/"]
 !播放器头顶文字提醒
-1090ys2.com,98bbw.com##.center
+1090ys2.com##.center
 
 !-TVB云播-!
   !---首页中段图片广告---!
