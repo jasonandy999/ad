@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004170700
-! Version: 2021004170700
+! Checksum: z2021004170710
+! Version: 2021004170710
 ! Title: 舒仪广告规则0417
 
 @@||*.luyou.gocloud.cn
@@ -148,6 +148,7 @@ www.hktvyb.com##[href="https://hth104.com/"]
 ||hikin.online^
 ||036e.cn^
 ||feigegaojia.com^
+||pindi88.com^
 
 !【88影视】
 !88影视首页头部图片APP下载
