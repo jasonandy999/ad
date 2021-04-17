@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004172047
-! Version: 2021004172047
+! Checksum: z2021004180748
+! Version: 2021004180748
 ! Title: 舒仪广告规则0417
 
 @@||*.luyou.gocloud.cn
@@ -105,6 +105,8 @@
 ||ads_300x250*
 ||shtiesen.cn^
 ||dlads.cn^
+||union.maccms.com^
+|*/buffer.html^
 
 !1090影视解析+图片白名单
 @@||jpg.mintehao.com^$image
@@ -119,6 +121,7 @@
 ||www.happyyong.com^
 ||privateadx.com^
 ||js.maidagu.com^
+|https://www.siguyy.com/prestrain.html
 !思古首页广告文字
 www.siguyy.com##.clearfix.myui-panel-bg2.active.myui-panel
 !思古解析白名单
@@ -267,74 +270,6 @@ www.right.com.cn##[href^="https://jd.dangbei.com/jsjs/"]
 !------423down-----!
 www.423down.com##h2 > [href^="https://mp.weixin.qq.com/s"] > span
 www.423down.com##[href="https://mp.weixin.qq.com/s/y5S0p25jKZvNbIxZ0B-2aQ"] > span
-
-
-140.82.112.22 central.github.com
-140.82.112.4 github.com
-140.82.113.4 gist.github.com
-140.82.113.5 api.github.com
-140.82.113.9 codeload.github.com
-140.82.114.25 live.github.com
-140.82.114.26 alive.github.com
-185.199.108.133 avatars0.githubusercontent.com
-185.199.108.133 avatars1.githubusercontent.com
-185.199.108.133 avatars2.githubusercontent.com
-185.199.108.133 avatars3.githubusercontent.com
-185.199.108.133 avatars4.githubusercontent.com
-185.199.108.133 avatars5.githubusercontent.com
-185.199.108.133 avatars.githubusercontent.com
-185.199.108.133 camo.githubusercontent.com
-185.199.108.133 desktop.githubusercontent.com
-185.199.108.133 favicons.githubusercontent.com
-185.199.108.133 github.map.fastly.net
-185.199.108.133 media.githubusercontent.com
-185.199.108.133 raw.githubusercontent.com
-185.199.108.133 user-images.githubusercontent.com
-185.199.108.153 assets-cdn.github.com
-185.199.108.153 github.io
-185.199.108.153 githubstatus.com
-185.199.108.153 guides.github.com
-185.199.108.154 github.githubassets.com
-199.232.69.194 github.global.ssl.fastly.net
-52.216.154.132 github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.25.84 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.198.97 github-cloud.s3.amazonaws.com
-52.217.37.76 github-com.s3.amazonaws.com
-52.217.42.180 github-production-user-asset-6210df.s3.amazonaws.com
-64.71.168.201 github.communityalive.github.com
-140.82.114.26 api.github.com
-140.82.113.5 assets-cdn.github.com
-185.199.108.153 avatars0.githubusercontent.com
-185.199.108.133 avatars1.githubusercontent.com
-185.199.108.133 avatars2.githubusercontent.com
-185.199.108.133 avatars3.githubusercontent.com
-185.199.108.133 avatars4.githubusercontent.com
-185.199.108.133 avatars5.githubusercontent.com
-185.199.108.133 avatars.githubusercontent.com
-185.199.108.133 camo.githubusercontent.com
-185.199.108.133 central.github.com
-140.82.112.22 codeload.github.com
-140.82.113.9 desktop.githubusercontent.com
-185.199.108.133 favicons.githubusercontent.com
-185.199.108.133 gist.github.com
-140.82.113.4 github-cloud.s3.amazonaws.com
-52.217.198.97 github.com
-140.82.112.4 github.community
-64.71.168.201 github-com.s3.amazonaws.com
-52.217.37.76 github.githubassets.com
-185.199.108.154 github.global.ssl.fastly.net
-199.232.69.194 github.io
-185.199.108.153 github.map.fastly.net
-185.199.108.133 github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.154.132 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.25.84 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.42.180 githubstatus.com
-185.199.108.153 guides.github.com
-185.199.108.153 live.github.com
-140.82.114.25 media.githubusercontent.com
-185.199.108.133 raw.githubusercontent.com
-185.199.108.133 user-images.githubusercontent.com
-
 
 -1688-wp-media/ads/
 -880-80-4.jpg
