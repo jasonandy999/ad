@@ -106,7 +106,7 @@
 ||shtiesen.cn^
 ||dlads.cn^
 ||union.maccms.com^
-|*/buffer.html^
+|http://1090ys2.com/buffer.html
 
 !1090影视解析+图片白名单
 @@||jpg.mintehao.com^$image
