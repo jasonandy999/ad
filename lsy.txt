@@ -1,10 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004180748
-! Version: 2021004180748
-! Title: 舒仪广告规则0417
+! Checksum: z2021004182253
+! Version: 2021004182253
+! Title: 舒仪广告规则0418
 
-@@||*.luyou.gocloud.cn
-@@||*.gocloud.cn
+@@||portal.ikuai8-wifi.com^$important
+@@||*.luyou.gocloud.cn^$important
+@@||*.gocloud.cn^$important
+@@||update.huorong.cn^
 @@||192.168.*.1
 @@||10.10.*.*
 @@||10.0.*.1
@@ -15,7 +17,6 @@
 @@||instant.page^
 @@||weixin.qq.com^
 @@||918848.xyz^
-@@||portal.ikuai8-wifi.com^
 @@||s1.ax1x.com^$image
 @@||s2.ax1x.com^$image
 @@||s3.ax1x.com^$image
@@ -203,7 +204,6 @@ paofans.tv##body > div
 
 !【sihu】
 /skin/common.htm
-/skin/base.js
 @@||642p.com^$image
 ||www.googletagmanager.com^$script
 
