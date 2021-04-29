@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004292224
-! Version: 2021004292224
+! Checksum: z202100429223002
+! Version: 202100429223002
 ! Title: 舒仪广告规则042901
 
 @@||portal.ikuai8-wifi.com^$important
@@ -186,6 +186,8 @@ www.hanmiys.com,hanmiys.com,gudanys.com,www.gudanys.com##.myui-panel_bd > .col-x
 www.hanmiys.com,hanmiys.com,gudanys.com,www.gudanys.com##.mb10.col-pd
 !孤单影院/v.mp4结尾规则
 iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
+!孤单影院播放器右上角水印
+||ae01.alicdn.com/kf/Hd77b33dc731f4c128d30fb092102c9ab2.jpg
 !孤单影院解析白名单
 @@||www.hanmiys.com^$xhr
 
