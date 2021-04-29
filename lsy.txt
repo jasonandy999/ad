@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004182253
-! Version: 2021004182253
-! Title: 舒仪广告规则0418
+! Checksum: z2021004292224
+! Version: 2021004292224
+! Title: 舒仪广告规则042901
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -178,7 +178,8 @@ www.pianba.net###aliyun
 
 !【孤单影院】
 !孤单影院首页文字公告
-www.hanmiys.com##.clearfix.stui-pannel-bg.stui-pannel
+www.hanmiys.com,hanmiys.com,gudanys.com,www.gudanys.com##.clearfix.stui-pannel-bg.stui-pannel
+www.hanmiys.com,hanmiys.com,gudanys.com,www.gudanys.com##.col-xs-1 > .clearfix > .clearfix.myui-panel-box
 !孤单影院介绍页面播放源上面APP文字广告
 www.hanmiys.com,hanmiys.com,gudanys.com,www.gudanys.com##.myui-panel_bd > .col-xs-1
 !孤单影院电影播放页面播放源上面APP文字广告
