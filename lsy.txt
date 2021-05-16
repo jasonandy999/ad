@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021004301208
-! Version: 2021004301208
-! Title: 舒仪广告规则043001
+! Checksum: z2021005162058
+! Version: 2021005162058
+! Title: 舒仪广告规则051601
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -131,17 +131,17 @@ www.siguyy.com##.clearfix.myui-panel-bg2.active.myui-panel
 !【真不卡影视】
 ||www.zhenbuka2.com/foot/foot.js$script
 !真不卡首页文字公告
-www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com##.clearfix.stui-pannel-box > .stui-pannel_hd
+www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##.clearfix.stui-pannel-box > .stui-pannel_hd
 !真不卡首页中间图片推广
-www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com##.row > .clearfix.stui-pannel-box > .stui-pannel_hd
+www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##.row > .clearfix.stui-pannel-box > .stui-pannel_hd
 !真不卡电影介绍页面头部广告
-www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com###ad01
+www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###ad01
 !真不卡电影播放页面播放器上面文字跑马灯
-www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com##.marquee_outer
+www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##.marquee_outer
 !真不卡电影播放页面头部图片广告
-www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com###yb112
+www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###yb112
 !真不卡电影播放页面中部图片广告
-www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com###md112
+www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###md112
 !真不卡电影播放开始
 ||www.zhenbuka2.com/loadingbk.html
 !真不卡解析白名单
