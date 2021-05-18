@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021005182259
-! Version: 2021005182259
-! Title: 舒仪广告规则051802
+! Checksum: z2021005190010
+! Version: 2021005190010
+! Title: 舒仪广告规则051901
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -91,6 +91,7 @@
 !1090首页头顶文字广告
 1090ys2.com##.dfg-layout.col-sm-12
 !1090首页头部图片轮播加文字广告
+1090ys2.com##.clearfix.stui-pannel-bg.stui-pannel > p
 1090ys2.com##.clearfix.stui-pannel-bg.stui-pannel > div.clearfix.stui-pannel-bg.stui-pannel
 !98bbw首页文字公告
 98bbw.com##.clearfix.stui-pannel-box > .stui-pannel_hd
