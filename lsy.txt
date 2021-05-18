@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021005182206
-! Version: 2021005182206
-! Title: 舒仪广告规则051801
+! Checksum: z2021005182259
+! Version: 2021005182259
+! Title: 舒仪广告规则051802
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -201,6 +201,8 @@ www.wuguiyy.com##font
 www.wuguiyy.com##[href="http://app.wuguiyy.com/app/"]
 !乌龟播放页面播放器下面文字广告
 www.wuguiyy.com##.btn-primary.btn-lg.btn-block.btn.open-share
+!乌龟过滤广告网址
+||govchongqing.cn^
 
 !【泡饭影视】
 !泡饭影视播放器提示语
