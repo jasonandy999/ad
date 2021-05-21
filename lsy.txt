@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021005190010
-! Version: 2021005190010
-! Title: 舒仪广告规则051901
+! Checksum: z2021005212128
+! Version: 2021005212128
+! Title: 舒仪广告规则052101
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -272,7 +272,6 @@ paofans.tv##body > div
 |http://data.video.iqiyi.com/v.mp4
 www.right.com.cn##[href^="https://jd.dangbei.com/jsjs/"]
 |https://www.163kp.com/upload/files/up/
-|http$third-party
 /http(s?):\/\/.+\.com\/([0-9][0-9][0-9]+)\/$/$
 /help/?yd=?
 ://*.bid^$script,third-party
