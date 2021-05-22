@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021005212128
-! Version: 2021005212128
-! Title: 舒仪广告规则052101
+! Checksum: z2021005230004
+! Version: 2021005230004
+! Title: 舒仪广告规则052301
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -96,7 +96,7 @@
 !98bbw首页文字公告
 98bbw.com##.clearfix.stui-pannel-box > .stui-pannel_hd
 !1090电影介绍页面头部广告
-1090ys2.com,98bbw.com##[href="http://htbet1536.com"]
+1090ys2.com,98bbw.com##[href="http://ayxbet846.vip"]
 !1090电影介绍中段广告
 1090ys2.com##.padding-0.col-xs-1.col-lg-wide-8 > p
 !1090分类头部图片广告
@@ -132,12 +132,14 @@ www.siguyy.com##.clearfix.myui-panel-bg2.active.myui-panel
 
 !【真不卡影视】
 ||www.zhenbuka2.com/foot/foot.js$script
+||www.zhenbuka3.com/foot/foot.js$script
 !真不卡首页文字公告
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##.clearfix.stui-pannel-box > .stui-pannel_hd
 !真不卡首页中间图片推广
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##.row > .clearfix.stui-pannel-box > .stui-pannel_hd
 !真不卡电影介绍页面头部广告
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###ad01
+www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##[href="http://jmjt.org/"]
 !真不卡电影播放页面播放器上面文字跑马灯
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##.marquee_outer
 !真不卡电影播放页面头部图片广告
@@ -145,19 +147,18 @@ www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###yb112
 !真不卡电影播放页面中部图片广告
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###md112
 !真不卡电影播放开始
-||www.zhenbuka2.com/loadingbk.html
+||www.zhenbuka*.com/loadingbk.html
+||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/customer-upload/1603812198925_voygitc6tjlc.gif
 !真不卡解析白名单
 @@||www.zhenbuka2.com/jiekou/*
+@@||www.zhenbuka3.com/jiekou/*
 
 !【TVB云播】
 !TVB首页中间部分图片广告
-www.hktvyb.com##[src="https://images.83n104.com/clientManage/1618151511350842.jpg"]
+www.hktvyb.com##[src="https://ae01.alicdn.com/kf/U29adb99b7cae476ba37c9c9ab3cee093s.jpg"],[src="https://ae01.alicdn.com/kf/U69265ff86ffe48ecbc1ec7044239fb1bh.jpg"]
 !TVB电影介绍页面中部广告
 www.hktvyb.com##[src="https://static.0am08m.com/prod/banner/m_d46a1a67eb93d5a13e9a0857c79c1385ce0226a8.jpg"]
-www.hktvyb.com##[href="http://6010yb.com/"]
-www.hktvyb.com##[href="https://9980yb.com/"]
-www.hktvyb.com##[href="https://170hth.com/"]
-www.hktvyb.com##[href="https://hth104.com/"]
+www.hktvyb.com##[href^="https://hth107.com/register/"],[href^="https://182hth.com/entry/"]
 !TVB电影介绍页面简介文字广告
 www.hktvyb.com##.myui-content__operate
 !TVB电影播放页面中部动态图片广告
@@ -204,6 +205,7 @@ www.wuguiyy.com##[href="http://app.wuguiyy.com/app/"]
 www.wuguiyy.com##.btn-primary.btn-lg.btn-block.btn.open-share
 !乌龟过滤广告网址
 ||govchongqing.cn^
+
 
 !【泡饭影视】
 !泡饭影视播放器提示语
@@ -272,6 +274,7 @@ paofans.tv##body > div
 |http://data.video.iqiyi.com/v.mp4
 www.right.com.cn##[href^="https://jd.dangbei.com/jsjs/"]
 |https://www.163kp.com/upload/files/up/
+|http$third-party
 /http(s?):\/\/.+\.com\/([0-9][0-9][0-9]+)\/$/$
 /help/?yd=?
 ://*.bid^$script,third-party
