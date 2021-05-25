@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021005230019
-! Version: 2021005230019
-! Title: 舒仪广告规则052302
+! Checksum: z2021005251836
+! Version: 2021005251836
+! Title: 舒仪广告规则052501
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -158,19 +158,22 @@ www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###md112
 
 !【TVB云播】
 !TVB首页中间部分图片广告
-www.hktvyb.com##[src="https://ae01.alicdn.com/kf/U29adb99b7cae476ba37c9c9ab3cee093s.jpg"],[src="https://ae01.alicdn.com/kf/U69265ff86ffe48ecbc1ec7044239fb1bh.jpg"]
+www.tvyb10.com,www.hktv01.com,hktv01.com,tvyb10.com,www.hktvyb.com##[src="https://ae01.alicdn.com/kf/U29adb99b7cae476ba37c9c9ab3cee093s.jpg"],[src="https://ae01.alicdn.com/kf/U69265ff86ffe48ecbc1ec7044239fb1bh.jpg"]
 !TVB电影介绍页面中部广告
-www.hktvyb.com##[src="https://static.0am08m.com/prod/banner/m_d46a1a67eb93d5a13e9a0857c79c1385ce0226a8.jpg"]
-www.hktvyb.com##[href^="https://hth107.com/register/"],[href^="https://182hth.com/entry/"]
+www.tvyb10.com,www.hktv01.com,hktv01.com,tvyb10.com,www.hktvyb.com##[src="https://static.0am08m.com/prod/banner/m_d46a1a67eb93d5a13e9a0857c79c1385ce0226a8.jpg"]
+www.tvyb10.com,www.hktv01.com,hktv01.com,tvyb10.com,www.hktvyb.com##[href^="https://hth107.com/register/"],[href^="https://182hth.com/entry/"],[href^="https://170hth.com/entry/register/"]
 !TVB电影介绍页面简介文字广告
-www.hktvyb.com##.myui-content__operate
+www.tvyb10.com,www.hktv01.com,hktv01.com,tvyb10.com,www.hktvyb.com##.myui-content__operate
 !TVB电影播放页面中部动态图片广告
-www.hktvyb.com##[src="https://yzf.qq.com/fsna/kf-file/kf_pic/20210401/KFPIC_1218208844_WXIMAGE_7496a494f7734a32a25906a73a064053.gif"]
+www.tvyb10.com,www.hktv01.com,hktv01.com,tvyb10.com,www.hktvyb.com##[src="https://yzf.qq.com/fsna/kf-file/kf_pic/20210401/KFPIC_1218208844_WXIMAGE_7496a494f7734a32a25906a73a064053.gif"]
 ||hikin.online^
 ||036e.cn^
 ||feigegaojia.com^
 ||pindi88.com^
 ||maccms.info^
+||dyx0878.cn^
+||gbitcoin.cn^
+||sebastianeyean.com^
 
 !【88影视】
 !88影视首页头部图片APP下载
