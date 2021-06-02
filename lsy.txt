@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021005291950
-! Version: 2021005291950
-! Title: 舒仪广告规则052901
+! Checksum: z2021006021936
+! Version: 2021006021936
+! Title: 舒仪广告规则060201
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -96,7 +96,8 @@
 !98bbw首页文字公告
 98bbw.com##.clearfix.stui-pannel-box > .stui-pannel_hd
 !1090电影介绍页面头部广告
-1090ys2.com,98bbw.com##[href="http://ayxbet846.vip"]
+1090ys2.com,98bbw.com##[href="http://136ayx.vip"]
+1090ys2.com,98bbw.com##[src="https://s.pc.qq.com/tousu/img/20210601/5588196_1622486217.jpg"]
 !1090电影介绍中段广告
 1090ys2.com##.padding-0.col-xs-1.col-lg-wide-8 > p
 !1090分类头部图片广告
@@ -127,7 +128,7 @@
 |https://www.siguyy.com/prestrain.html
 !思古播放界面图片广告
 www.siguyy.com##[href="http://jmjt.org/"]
-www.siguyy.com##[src="http://jmjt.org/tp/yxj.gif"]
+www.siguyy.com##[src="http://jmjt.org/tp/hf.gif"]
 !思古首页广告文字
 www.siguyy.com##.clearfix.myui-panel-bg2.active.myui-panel
 !思古解析白名单
@@ -157,6 +158,8 @@ www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###md112
 @@||www.zhenbuka3.com/jiekou/*
 
 !【TVB云播】
+!TVB首页文字
+www.tvyb10.com,www.tvyb02.com,tvyb02.com,www.hktv01.com,hktv01.com,tvyb10.com,www.hktvyb.com##a[href="http://www.viphktv.com"]
 !TVB首页中间部分图片广告
 www.tvyb10.com,www.tvyb02.com,tvyb02.com,www.hktv01.com,hktv01.com,tvyb10.com,www.hktvyb.com##[src="https://pic.gksec.com/2021/05/28/5262579535419/900.jpg"],[src="https://pic.gksec.com/2021/05/28/1b22e5f7f7e80/1600.jpg"]
 !TVB电影介绍页面中部广告
@@ -280,7 +283,7 @@ paofans.tv##body > div
 |http://data.video.iqiyi.com/v.mp4
 www.right.com.cn##[href^="https://jd.dangbei.com/jsjs/"]
 |https://www.163kp.com/upload/files/up/
-!http$third-party
+!|http$third-party
 /http(s?):\/\/.+\.com\/([0-9][0-9][0-9]+)\/$/$
 /help/?yd=?
 ://*.bid^$script,third-party
