@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021006152136
-! Version: 2021006152136
-! Title: 舒仪广告规则061501
+! Checksum: z202106160358
+! Version: 202106160358
+! Title: 舒仪广告规则061601
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -81,6 +81,9 @@
 ##.layui-layer-rim.layui-layer-page.layui-layer
 ##.hl-pops-bg-active.hl-pops-bg
 ##.hl-bg-site.hl-poptips-wrap
+###hth
+###hth616
+###hth608
 
 !【播放器文字提示】
 ##.close-box.tips
@@ -97,7 +100,7 @@
 98bbw.com##.clearfix.stui-pannel-box > .stui-pannel_hd
 !1090电影介绍页面头部广告
 1090ys2.com,98bbw.com##[href="http://136ayx.vip"]
-1090ys2.com,98bbw.com##[src="https://s.pc.qq.com/tousu/img/20210601/5588196_1622486217.jpg"]
+1090ys2.com,98bbw.com##[src="https://s.pc.qq.com/tousu/img/20210612/9309116_1623431535.jpg"]
 !1090电影介绍中段广告
 1090ys2.com##.padding-0.col-xs-1.col-lg-wide-8 > p
 !1090分类头部图片广告
@@ -109,7 +112,8 @@
 ||shtiesen.cn^
 ||dlads.cn^
 ||union.maccms.com^
-|http://1090ys2.com/buffer.html
+|1090ys2.com/buffer.html
+||*/statics/js/*.html^$domain=1090ys2.com,zhenbuka2.com,zhenbuka3.com
 
 !1090影视解析+图片白名单
 @@||jpg.mintehao.com^$image
@@ -304,8 +308,12 @@ www.right.com.cn##[href^="https://jd.dangbei.com/jsjs/"]
 www.423down.com##h2 > [href^="https://mp.weixin.qq.com/s"] > span
 www.423down.com##[href="https://mp.weixin.qq.com/s/y5S0p25jKZvNbIxZ0B-2aQ"] > span
 
+
 ||wenshendian.com.cn^
 ||onenews.vip^
+||aiyouxi31.com^
+||*/statics/js/*.html^$domain=1090ys2.com,zhenbuka2.com,zhenbuka3.com,www.siguyy.com,siguyy.com
+||mmiyue.com^
 
 #腾讯视频广告规则
 ||btrace.qq.com
