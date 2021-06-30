@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021006302224
-! Version: 2021006302224
-! Title: 舒仪广告规则063001
+! Checksum: z2021006302240
+! Version: 2021006302240
+! Title: 舒仪广告规则063002
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -163,13 +163,15 @@ www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###md112
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###ad_a
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###hth
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###hth616
-www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###ad01
+www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##ad01
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###yb112
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###note
 
 !【TVB云播】
 !TVB首页文字
-www.tvyb02.com,tvyb02.com,www.hktv01.com,hktv01.com,www.hktv03.com,hktv03.com##a[href="http://viphktv.com"]
+www.tvyb02.com,tvyb02.com##a[href="http://viphktv.com"]
+www.hktv01.com,hktv01.com##a[href="http://viphktv.com"]
+www.hktv03.com,hktv03.com##a[href="http://viphktv.com"]
 !TVB首页中间部分图片广告
 www.tvyb02.com,tvyb02.com,www.hktv01.com,hktv01.com,www.hktv03.com,hktv03.com##[src="https://pic.gksec.com/2021/05/28/5262579535419/900.jpg"],[src="https://pic.gksec.com/2021/05/28/1b22e5f7f7e80/1600.jpg"]
 !TVB电影介绍页面中部广告
@@ -324,6 +326,9 @@ www.423down.com##[href="https://mp.weixin.qq.com/s/y5S0p25jKZvNbIxZ0B-2aQ"] > sp
 ||govgaungzhou.cn^
 ||ruigezx.com^
 ||tetiao9.com^
+||hehuren.cn^
+||wm-mxc.com^
+||emotionalworld.cn^
 
 
 #腾讯视频广告规则
