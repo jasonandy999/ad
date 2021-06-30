@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021006302240
-! Version: 2021006302240
-! Title: 舒仪广告规则063002
+! Checksum: z2021006302250
+! Version: 2021006302250
+! Title: 舒仪广告规则063003
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -166,6 +166,7 @@ www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###hth616
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##ad01
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###yb112
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###note
+##img[onclick*="/statics/js/"]
 
 !【TVB云播】
 !TVB首页文字
