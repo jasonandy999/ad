@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z2021006302250
-! Version: 2021006302250
-! Title: 舒仪广告规则063003
+! Checksum: z20210007040434
+! Version: 20210007040434
+! Title: 舒仪广告规则070401
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -115,17 +115,41 @@
 |1090ys2.com/buffer.html
 ||*/statics/js/*.html^$domain=1090ys2.com,zhenbuka2.com,zhenbuka3.com
 
-!1090影视解析+图片白名单
-@@||jpg.mintehao.com^$image
-@@||pic.mintehao.com^$image
-@@||ys1090.mintehao.com^$xhr
-@@||jx1090.mintehao.com^$xhr
-@@||jxys2.mintehao.com^$xhr
-@@||pcc.mmiyue.com^$xhr
-@@||www.fztxylgy.com:65^$xhr
+!【1090影视解析+图片白名单】
+@@||jpg.mintehao.com
+@@||pic.mintehao.com
+@@||ys1090.mintehao.com
+@@||jx1090.mintehao.com
+@@||jxys2.mintehao.com
+@@||jx1090ys2.qx12345.top
+@@||pcc.mmiyue.com
+@@||www.fztxylgy.com
+
+!【南瓜电影http://www.nangua5.com】
+www.nangua5.com,m.nangua5.com,nangua5.com##.m-0.p-0.clearfix.layout-box > .clearfix.layout-box
+
+!【孤狼影城 http://www.gulangyc.com】
+www.gulangyc.com,m.gulangyc.com,gulangyc.com##[src="https://xz.cmspapp61.xyz/"]
+||gulangyc.com/cpc.js$script
+||gulangyc.com/js/rsxg5a.script$script
+
+!【80s手机电影 80sdy1.com】
+||ilaohuyou.xyz
+||80sdy1.com/js/lishijl.js$script
+||80sdy1.com/js/opensug.js$script
+||80sdy1.com/js/tab.js$script
+www.80sdy1.com,m.80sdy1.com##.notice,.noticetop
+#视频解析白名单网址
+@@||510yh.cc^
+@@||dious.cc^
+@@||chinalincoln.com^
+@@||buycar5.cn^
+@@||hhmm0.com^
+@@||wenshibaowenbei.com^
+@@||lslkkyj.com^
 
 !【思古影视】
-||www.happyyong.com^
+||happyyong.com^
 ||privateadx.com^
 ||js.maidagu.com^
 ||siguyy.com/static/js/yxj.js
