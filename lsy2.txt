@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z20210007040434
-! Version: 20210007040434
-! Title: 舒仪广告规则070401
+! Checksum: z20210007040445
+! Version: 20210007040445
+! Title: 舒仪广告规则070402
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -127,6 +127,10 @@
 
 !【南瓜电影http://www.nangua5.com】
 www.nangua5.com,m.nangua5.com,nangua5.com##.m-0.p-0.clearfix.layout-box > .clearfix.layout-box
+||api.taoxiaoma.vip^
+|https://api.longdidi.top/load.html
+|api.longdidi.top/load.html
+||cgptwd.com^
 
 !【孤狼影城 http://www.gulangyc.com】
 www.gulangyc.com,m.gulangyc.com,gulangyc.com##[src="https://xz.cmspapp61.xyz/"]
