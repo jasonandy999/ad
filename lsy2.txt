@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z202100070400525
-! Version: 202100070400525
-! Title: 舒仪广告规则070405
+! Checksum: z202100070400535
+! Version: 202100070400535
+! Title: 舒仪广告规则070406
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -240,11 +240,11 @@ www.wuguiyy.com##.btn-primary.btn-lg.btn-block.btn.open-share
 ||govguilin.cn^
 ||www.wuguiyy.com/today.js
 ||govchengdu.cn^
-||jiexizhuanyong.com^
 ||kyy.xxyh^
 ||aigzg.com^
 ||zhongwenqing.com^
-||byteamone.cn^
+||wuxiqiangheng.com^
+||*.byteamone.cn^
 ||hgjapp.com^
 
 
