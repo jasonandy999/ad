@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z202100070400535
-! Version: 202100070400535
-! Title: 舒仪广告规则070406
+! Checksum: z20210007130046
+! Version: 20210007130046
+! Title: 舒仪广告规则071301
 
 @@||portal.ikuai8-wifi.com^$important
 @@||*.luyou.gocloud.cn^$important
@@ -114,6 +114,7 @@
 ||union.maccms.com^
 |1090ys2.com/buffer.html
 ||*/statics/js/*.html^$domain=1090ys2.com,zhenbuka2.com,zhenbuka3.com
+*/buffer.html
 
 !【1090影视解析+图片白名单】
 @@||jpg.mintehao.com
@@ -193,12 +194,16 @@ www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com##ad01
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###yb112
 www.zhenbuka.com,www.zhenbuka1.com,www.zhenbuka2.com,www.zhenbuka3.com###note
 ##img[onclick*="/statics/js/"]
-
+||bcebos.com/ad/
+||bcebos.com/im-cs/202ae4a7746e37f7c903ff037f896230.gif
+||bcebos.com/im-cs/60e208a8a350191442f70a34e1ed887d.jpg
+||bcebos.com/im-cs/79fb7a5e77433a8760e4ba703ef71154.png
+||bcebos.com/im-cs/a69c0123ae867534560f1a0df1b6b2a8.png
 !【TVB云播】
 !TVB首页文字
-www.tvyb02.com,tvyb02.com##a[href="http://viphktv.com"]
-www.hktv01.com,hktv01.com##a[href="http://viphktv.com"]
-www.hktv03.com,hktv03.com##a[href="http://viphktv.com"]
+www.tvyb02.com,tvyb02.com##a[href="http://viphktv.com/"]
+www.hktv01.com,hktv01.com##a[href="http://viphktv.com/"]
+www.hktv03.com,hktv03.com##a[href="http://viphktv.com/"]
 !TVB首页中间部分图片广告
 www.tvyb02.com,tvyb02.com,www.hktv01.com,hktv01.com,www.hktv03.com,hktv03.com##[src="https://pic.gksec.com/2021/05/28/5262579535419/900.jpg"],[src="https://pic.gksec.com/2021/05/28/1b22e5f7f7e80/1600.jpg"]
 !TVB电影介绍页面中部广告
@@ -222,6 +227,8 @@ www.tvyb02.com,tvyb02.com,www.hktv01.com,hktv01.com,www.hktv03.com,hktv03.com##[
 www.88kan.com,m.88kan.com##.main > [href="https://www.88ys.app"]
 */template/wap88ysw/jk/toubu*
 */maizhan/js/606*
+*/pc88ysw/ads/*
+*/wap88ysw/ads/*
 !88影视解析白名单
 @@||v.jsjinfu.com:8443^$subdocument
 
@@ -246,7 +253,6 @@ www.wuguiyy.com##.btn-primary.btn-lg.btn-block.btn.open-share
 ||wuxiqiangheng.com^
 ||*.byteamone.cn^
 ||hgjapp.com^
-
 
 !【泡饭影视】
 !泡饭影视播放器提示语
