@@ -201,14 +201,19 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com###hth
 555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com##.myui-panel_bd > .col-xs-1 > a[target="_blank"] > img
 555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com##a[href^="https://c.madeqr.com/"][target="_blank"] > img
 
+!【天空影视】
+tkys.tv##[src="https://dd-static.jd.com/ddimg/jfs/t1/98795/20/25859/243461/62592adeE9986ff67/557d188f5610d4ee.jpg"]
+tkys.tv##[src="https://www.tkys.tv/bctp/wybfy2.jpg"]
+||xhoaxt.com^
+
 !【杂项】
+/entry/register/?
 /stat/rt/js?
 /get_thunder_version/?
 ||res-etl-ssl.xunlei.com^
 ||api-shoulei-ssl.xunlei.com^
 ||open.thunderurl.com^
-
-
+||zz.bdustatic.com^
 
 !---------------------------------------------------------------------------!
 !--------------- EasyList China rules --------------------------------------!
