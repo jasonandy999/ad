@@ -204,6 +204,11 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com###hth
 !【杂项】
 /stat/rt/js?
 /get_thunder_version/?
+||thunderurl.com^
+||res-*-ssl.xunlei.com^
+||api-*-ssl.xunlei.com^
+
+
 !---------------------------------------------------------------------------!
 !--------------- EasyList China rules --------------------------------------!
 !---------------------------------------------------------------------------!
