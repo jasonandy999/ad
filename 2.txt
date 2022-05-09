@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: L20220503
-! Version: 20220503v6
-! Title: 舒仪去广告220503
+! Checksum: L20220509
+! Version: 20220509
+! Title: 舒仪去广告220509
 ! Expires: 20 days (update frequency)
 
 !【阻止外人入侵局域网】
@@ -81,30 +81,33 @@
 ||*js/component/partners.js$important
 ||*js/component/anticheat.js$important
 !1090影视全站头顶横幅
-1090ys8.com,98bbw.com##[src="https://p.qlogo.cn/hy_personal/3e28f14aa0516842030cdecb759997c1e777c0ace9b2d2374aa7ec959746f146/0.jpg"],[href="https://1090zy.lanzoul.com/iz9JZyqu5uf"]
+1090hd.com,98bbw.com##a[href*="https://1090app.com"]
 !1090影视首页头顶横幅广告图片
-1090ys8.com##div.container:last-child > div.row:first-child > div.stui-pannel.stui-pannel-bg.clearfix > p:first-child
+1090hd.com##div.container:last-child > div.row:first-child > div.stui-pannel.stui-pannel-bg.clearfix > p:first-child
 
 !1090影视首页轮播下面文字广告
-1090ys8.com##div.container:last-child > div.row:first-child > div.stui-pannel.stui-pannel-bg.clearfix > div.stui-pannel.stui-pannel-bg.clearfix:nth-child(4)
+1090hd.com##div.container:last-child > div.row:first-child > div.stui-pannel.stui-pannel-bg.clearfix > div.stui-pannel.stui-pannel-bg.clearfix:nth-child(4)
 98bbw.com##.clearfix.stui-pannel-box > .stui-pannel_hd
+98bbw.com##div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(2) > .clearfix.stui-pannel-box
 
 !1090影视影片介绍头顶横幅广告
-1090ys8.com##div.container:nth-child(11) > div.row > p:first-child
-1090ys8.com, akdy2019.com##.myui-content__operate
-1090ys8.com, akdy2019.com##[href="http://1090app.com/"]
+1090hd.com##div.container:nth-child(11) > div.row > p:first-child
+1090hd.com, akdy2019.com##.myui-content__operate
+1090hd.com, akdy2019.com##[href="http://1090app.com/"]
 
 !1090影视播放器头顶文字广告
-1090ys8.com,98bbw.com##.center
-1090ys8.com##div.container:nth-child(11) > div.row > div.col-sm-12.dfg-layout:first-child
+1090hd.com,98bbw.com##.center
+1090hd.com##div.container:nth-child(11) > div.row > div.col-sm-12.dfg-layout:first-child
 
 !1090影视, 爱看电影影视播放器下面横幅广告
-1090ys8.com##div.container:nth-child(11) > div.row > div.col-lg-wide-8.col-xs-1.padding-0:nth-child(3) > p:nth-child(3)
-1090ys8.com, akdy2019.com##.clearfix.myui-panel-box > .close-box.tips
+1090hd.com##div.container:nth-child(11) > div.row > div.col-lg-wide-8.col-xs-1.padding-0:nth-child(3) > p:nth-child(3)
+1090hd.com, akdy2019.com##.clearfix.myui-panel-box > .close-box.tips
 
 !1090影视搜索文字与横幅图片
-1090ys8.com##div.container:nth-child(11) > div.row > div.col-lg-wide-75.col-xs-1.padding-0:nth-child(3) > div.stui-pannel.stui-pannel-bg.clearfix > div.stui-pannel-box > div.stui-pannel_bd:last-child > div.stui-pannel.stui-pannel-bg.clearfix:first-child
-1090ys8.com##div.container:nth-child(11) > div.row > p:first-child > a
+1090hd.com##div.container:nth-child(11) > div.row > div.col-lg-wide-75.col-xs-1.padding-0:nth-child(3) > div.stui-pannel.stui-pannel-bg.clearfix > div.stui-pannel-box > div.stui-pannel_bd:last-child > div.stui-pannel.stui-pannel-bg.clearfix:first-child
+1090hd.com##div.container:nth-child(11) > div.row > p:first-child > a
+
+||zz.bdstatic.com^$script
 
 !真不卡首页弹窗广告黑背景
 !zhenbuka5.com,zhenbuka3.com,bukaivip.com##.layui-layer-shade
@@ -135,28 +138,25 @@ zhenbuka5.com,zhenbuka3.com,bukaivip.com##[src="https://yzf.qq.com/fsnb/kf-file/
 zhenbuka5.com,zhenbuka3.com,bukaivip.com###hth616
 zhenbuka5.com,zhenbuka3.com,bukaivip.com###dw118
 zhenbuka5.com,zhenbuka3.com,bukaivip.com###ad1
+zhenbuka5.com,zhenbuka3.com,bukaivip.com###hth608
+zhenbuka5.com,zhenbuka3.com,bukaivip.com###yb112
+zhenbuka5.com,zhenbuka3.com,bukaivip.com###md112
 ##img[onclick^="window.open"][src*=".meituan.net"]
-@@||cq.mmiyue.com/zhenbuka2/statics/js/guanggao.js
-!||bj.bcebos.com/im-cs/$image,domain=~zhenbuka.com|~zhenbuka5.com|~zhenbuka3.com
-||z3.ax1x.com/2021/05/29/2A6ca8.png
-||zhenbuka*/statics/js/hth*.html
-||zhenbuka*/gg/*.js*
-||zhenbuka*/statics/js/toastr/jquery.toast.js
-||zhenbuka*/foot/foot.js
-||chushoushijian.cn^
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##+js(set,protectAd,noopFunc,function)
+zhenbuka3.com##+js(set,protectAd,noopFunc)
 mmiyue.com##+js(acis,setTimeout)
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##.container>*:not(.row), img[onclick]
-chushoushijian.cn
+zhenbuka3.com##.container>*:not(.row), img[onclick]
 ||mmiyue.com/zhenbuka2/statics/js/fuck-debugger.js
 ||zhenbuka3.com/loadingbk.html$frame
-||zhenbuka5.com/loadingbk.html$frame
-*/jquerys.js?k=*|$script,domain=zhenbuka3.com|zhenbuka5.com|bukaivip.com
-||jinrongwang.net^$script
+
+.gif|$image,domain=91meijuw.com|acgndmku.com|bimiacg4.net|duboku.su|hxys.tv|kuhuiv.com|tvyb02.com|xb15.cc|zhenbuka3.com|olevod.*
+
+﻿||kmmnbrs.mnknrt.xyz^
+﻿||kmt.cslpf.cn^
+﻿||hnd.pfdth.cn^
 
 !港剧网影视首页头顶文字广告
 4kgj.com##.hidden-lg
-
+||www.zhenbuka3.com/foot/foot.js
 !港剧网影视影片介绍右边广告窗
 4kgj.com##.detail-ad
 
@@ -178,7 +178,9 @@ xhqyy.com##.clearfix.myui-panel-box > .close-box.tips
 tvyb10.com,tvyb02.com,hktv02.com,hktv03.com##font > font
 tvyb10.com,tvyb02.com,hktv02.com,hktv03.com##.myui-content__operate
 tvyb01.com,tvyb03.com##div:nth-child(6)
-tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com###hth
+tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##a[href^=http],#hth
+||jpnimg.cnyuncdn.com/0$image
+tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##+js(acis,document.writeln)
 
 !【88影视】
 88kan.com,88kan.tv,88hd.tv,dyjihe2.com,haitum.com,mamatws.com,imomoe.*,kakadm.com,milimili.*,qiqidongman.com,rijutv.co,vodxc.*##+js(ra, target, a[href^="/"])
@@ -202,14 +204,14 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com###hth
 555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com##a[href^="https://c.madeqr.com/"][target="_blank"] > img
 
 !【天空影视】
-||xhoaxt.com^
+﻿||xhoaxt.com^
 tkys.tv##+js(set,acis,allpop,.noticetext)
 
 !【杂项】
 /entry/register/?
 /stat/rt/js?
 /get_thunder_version/?
-||res-etl-ssl.xunlei.com^
+﻿||res-etl-ssl.xunlei.com^
 ||api-shoulei-ssl.xunlei.com^
 ||open.thunderurl.com^
 ||zz.bdustatic.com^
@@ -7711,7 +7713,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||loli.net/2020/06/17/gpRx7AzGwI4kQmV.gif
 ||loli.net/2020/06/17/vGALJ4mQx26T75u.gif
-||loli.net^$domain=1090ys8.com|520film.net|9kanqq.com|acglover.me|beiwodi.com|hdsky.me|magnet2048.com|nulltm.com|xydai.cn
+||loli.net^$domain=1090hd.com|520film.net|9kanqq.com|acglover.me|beiwodi.com|hdsky.me|magnet2048.com|nulltm.com|xydai.cn
 ||lolmp4.com/template/lolmp4/images/jquery.
 ||lolshipin.com/zt/sxx/
 ||longdidi.top^*.js
@@ -11930,7 +11932,7 @@ zhangxinxu.com##.col-aside
 zhangxinxu.com##.col-google
 yhgou.cc##.col-lg-12 + .row
 yhgou.cc##.col-lg-12 > a
-1090ys8.com##.col-lg-wide-8 > p[style="text-align:center;"]
+1090hd.com##.col-lg-wide-8 > p[style="text-align:center;"]
 big-cup.tv,g-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
 ezprice.com.tw##.col-md-3
 gamefy.cn,sitv.com.cn##.col-vlist-l > span
@@ -14312,14 +14314,14 @@ dapenti.com##a[href*="sq.cc"]
 mtrend.cn##a[href*="taomoubao.com"]
 jinti.com##a[href*="tempurchina.com"]
 58.com##a[href*="to8to.com"]
-1090ys8.com,rouman5.com##a[href*="tyrantdb.com"]
+1090hd.com,rouman5.com##a[href*="tyrantdb.com"]
 boke112.com##a[href*="url.cn"]
 enjoymore.fun##a[href*="urlto.pw"]
 jd.com,~wan.jd.com##a[href*="wan.jd.com/"]
 tingroom.com##a[href*="weidian.com"]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
 yamibo.com##a[href*="xqsp.club"]
-1090ys8.com##a[href*="yb6277."]
+1090hd.com##a[href*="yb6277."]
 jiyingw.net##a[href*="zhidmai.com"]
 fxykx.com##a[href*="zyttx.com/"]
 ddrk.me,ddys.tv##a[href="###"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
@@ -14472,7 +14474,7 @@ html-js.com##a[style^="margin-top:20px;"]
 dybee.tv##a[style^="position: fixed;bottom:"]
 chchzhan.com,xxizhan.com##a[style^="position:fixed;z-index:"]
 nfstar.net##a[target="_blank"] > .img-responsive
-1090ys8.com##a[target="_blank"] > img[src*="alicdn.com"]
+1090hd.com##a[target="_blank"] > img[src*="alicdn.com"]
 aishoujizy.com,xd0.com##a[target="_blank"] > img[src^="/upload/1/"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="320"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="330"]
@@ -15296,7 +15298,7 @@ typecho.wiki#@#.downloadad
 cocomanga.com#@#.gg_728
 cocomanga.com#@#.gg_950
 petrochina.com.cn#@#.ggbox
-1090ys8.com,bbt.tv,btbt.tv,mmiyue.com,nixingle.com#@#.google-ad
+1090hd.com,bbt.tv,btbt.tv,mmiyue.com,nixingle.com#@#.google-ad
 apk.tw#@#.google_ad
 adbug.cn#@#.google_ads
 mobile01.com#@#.googlead
@@ -15369,7 +15371,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=1090ys8.com|2hanju.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
+@@/adview_pic_$domain=1090hd.com|2hanju.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/api/ad/*$domain=pinduoduo.com
