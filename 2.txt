@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: L20220509
-! Version: 20220509
-! Title: 舒仪去广告220509
+! Checksum: L20220510
+! Version: 20220510
+! Title: 舒仪去广告20220510
 ! Expires: 20 days (update frequency)
 
 !【阻止外人入侵局域网】
@@ -150,9 +150,10 @@ zhenbuka3.com##.container>*:not(.row), img[onclick]
 
 .gif|$image,domain=91meijuw.com|acgndmku.com|bimiacg4.net|duboku.su|hxys.tv|kuhuiv.com|tvyb02.com|xb15.cc|zhenbuka3.com|olevod.*
 
-﻿||kmmnbrs.mnknrt.xyz^
-﻿||kmt.cslpf.cn^
-﻿||hnd.pfdth.cn^
+vidhub.cc##.module > [href="https://bucd.cc/"]
+||kmmnbrs.mnknrt.xyz^
+||kmt.cslpf.cn^
+||hnd.pfdth.cn^
 
 !港剧网影视首页头顶文字广告
 4kgj.com##.hidden-lg
@@ -204,14 +205,14 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##+js(acis,docu
 555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com##a[href^="https://c.madeqr.com/"][target="_blank"] > img
 
 !【天空影视】
-﻿||xhoaxt.com^
+||xhoaxt.com^
 tkys.tv##+js(set,acis,allpop,.noticetext)
 
 !【杂项】
 /entry/register/?
 /stat/rt/js?
 /get_thunder_version/?
-﻿||res-etl-ssl.xunlei.com^
+||res-etl-ssl.xunlei.com^
 ||api-shoulei-ssl.xunlei.com^
 ||open.thunderurl.com^
 ||zz.bdustatic.com^
