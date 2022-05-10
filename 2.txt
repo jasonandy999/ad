@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: L20220510
-! Version: 20220510
-! Title: 舒仪去广告20220510
+! Version: 20220510v1
+! Title: 舒仪去广告20220510v1
 ! Expires: 20 days (update frequency)
 
 !【阻止外人入侵局域网】
@@ -151,6 +151,8 @@ zhenbuka3.com##.container>*:not(.row), img[onclick]
 .gif|$image,domain=91meijuw.com|acgndmku.com|bimiacg4.net|duboku.su|hxys.tv|kuhuiv.com|tvyb02.com|xb15.cc|zhenbuka3.com|olevod.*
 
 vidhub.cc##.module > [href="https://bucd.cc/"]
+vidhub.cc##div.module > [href*="https://bucd.cc/"]
+
 ||kmmnbrs.mnknrt.xyz^
 ||kmt.cslpf.cn^
 ||hnd.pfdth.cn^
