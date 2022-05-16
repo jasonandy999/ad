@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: L20220510
-! Version: 20220510v1
-! Title: 舒仪去广告20220510v1
+! Checksum: L20220516
+! Version: 20220516
+! Title: 舒仪去广告20220516
 ! Expires: 20 days (update frequency)
 
 !【阻止外人入侵局域网】
@@ -182,6 +182,7 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com##font > font
 tvyb10.com,tvyb02.com,hktv02.com,hktv03.com##.myui-content__operate
 tvyb01.com,tvyb03.com##div:nth-child(6)
 tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##a[href^=http],#hth
+tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##[href="/hth.html"]
 ||jpnimg.cnyuncdn.com/0$image
 tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##+js(acis,document.writeln)
 
