@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: L20220516
-! Version: 20220516
-! Title: 舒仪去广告20220516
+! Checksum: L202200803
+! Version: 202200803
+! Title: 舒仪去广告202200803
 ! Expires: 20 days (update frequency)
 
 !【阻止外人入侵局域网】
@@ -69,6 +69,11 @@
 ##.hide.noticetext
 ###layui-layer-shade1.layui-layer-shade
 ##DIV#layui-layer-shade1.layui-layer-shade
+##.gonggaop
+###minigonggaop
+##.ad
+##.ad.mi_btcon
+##.ads
 
 !1090影视杂项
 ||*/js/share.js$important
@@ -110,37 +115,37 @@
 ||zz.bdstatic.com^$script
 
 !真不卡首页弹窗广告黑背景
-!zhenbuka5.com,zhenbuka3.com,bukaivip.com##.layui-layer-shade
+!zbkyy.com,zhenbuka3.com,bukaivip.com##.layui-layer-shade
 
 !真不卡首页弹窗框架文字广告
-!zhenbuka5.com,zhenbuka3.com,bukaivip.com##.layui-layer-dialog.layui-layer
+!zbkyy.com,zhenbuka3.com,bukaivip.com##.layui-layer-dialog.layui-layer
 
 !真不卡首页文字公告
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##.clearfix.stui-pannel-box > .stui-pannel_hd
+zbkyy.com,zhenbuka3.com,bukaivip.com##.clearfix.stui-pannel-box > .stui-pannel_hd
 
 !真不卡首页中间图片推广
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##[href="/voddetail/84528"]
+zbkyy.com,zhenbuka3.com,bukaivip.com##[href="/voddetail/84528"]
 
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##[src="https://r1.ykimg.com/material/0A03/A1/202106/0630/3069950/1625037029350/0D01000060DC190B3475532568394C31.jpg"]
+zbkyy.com,zhenbuka3.com,bukaivip.com##[src="https://r1.ykimg.com/material/0A03/A1/202106/0630/3069950/1625037029350/0D01000060DC190B3475532568394C31.jpg"]
 
 !真不卡电影介绍页面头部广告
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##[src="https://p0.meituan.net/dpgroup/9b674d4f739482fb81c90bdbd100c6ff240825.gif"]
+zbkyy.com,zhenbuka3.com,bukaivip.com##[src="https://p0.meituan.net/dpgroup/9b674d4f739482fb81c90bdbd100c6ff240825.gif"]
 
 !真不卡电影播放页面播放器上面文字跑马灯
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##.marquee_outer
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##[src="https://p0.meituan.net/dpgroup/9b674d4f739482fb81c90bdbd100c6ff240825.gif"]
-zhenbuka5.com,zhenbuka3.com,bukaivip.com##[src="https://yzf.qq.com/fsnb/kf-file/kf_pic/20210412/KFPIC_1218208844_WXIMAGE_66122ef1245747f097b7cedcbb298910.gif"]
+zbkyy.com,zhenbuka3.com,bukaivip.com##.marquee_outer
+zbkyy.com,zhenbuka3.com,bukaivip.com##[src="https://p0.meituan.net/dpgroup/9b674d4f739482fb81c90bdbd100c6ff240825.gif"]
+zbkyy.com,zhenbuka3.com,bukaivip.com##[src="https://yzf.qq.com/fsnb/kf-file/kf_pic/20210412/KFPIC_1218208844_WXIMAGE_66122ef1245747f097b7cedcbb298910.gif"]
 
 !真不卡电影播放页面播放器载入临时广告
 ||p0.meituan.net/dpgroup/ffa3785a2fbb9a682390c9d15bd19a53602301.gif
 
 !真不卡临时杂项
-zhenbuka5.com,zhenbuka3.com,bukaivip.com###hth616
-zhenbuka5.com,zhenbuka3.com,bukaivip.com###dw118
-zhenbuka5.com,zhenbuka3.com,bukaivip.com###ad1
-zhenbuka5.com,zhenbuka3.com,bukaivip.com###hth608
-zhenbuka5.com,zhenbuka3.com,bukaivip.com###yb112
-zhenbuka5.com,zhenbuka3.com,bukaivip.com###md112
+zbkyy.com,zhenbuka3.com,bukaivip.com###hth616
+zbkyy.com,zhenbuka3.com,bukaivip.com###dw118
+zbkyy.com,zhenbuka3.com,bukaivip.com###ad1
+zbkyy.com,zhenbuka3.com,bukaivip.com###hth608
+zbkyy.com,zhenbuka3.com,bukaivip.com###yb112
+zbkyy.com,zhenbuka3.com,bukaivip.com###md112
 ##img[onclick^="window.open"][src*=".meituan.net"]
 zhenbuka3.com##+js(set,protectAd,noopFunc)
 mmiyue.com##+js(acis,setTimeout)
