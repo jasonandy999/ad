@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: L202200803
-! Version: 202200803
-! Title: 舒仪去广告202200803
+! Checksum: L202200804
+! Version: 202200804
+! Title: 舒仪去广告202200804
 ! Expires: 20 days (update frequency)
 
 !【阻止外人入侵局域网】
@@ -198,6 +198,10 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##+js(acis,docu
 88kan.com,88kan.tv,88hd.tv##.ma
 88kan.com,88kan.tv,88hd.tv##.leaveNavInfo
 88hd.tv##.download
+88hd.com##a[href^="https://www.88ys.app"]
+|https://p1.bdxiguaimg.com/origin/pgc-image/9e762f89c3dd446b9ffe1e64543cf5ee$image
+! ||bdxiguaimg.com/origin/$image,domain=88hd.com
+88hd.com,vidhub.cc##.MacPlayer:style(height:600px!important)
 /template/wap88ysw/jk/toubu*
 /maizhan/js/606*
 /maizhan/js/720.tt
@@ -205,12 +209,14 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##+js(acis,docu
 /template/*/ads/*
 
 ! 555影视
-555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com#?#.container > .row > .myui-panel-bg:has(> .myui-panel-box > .myui-panel_bd > .myui-vodlist > .col-lg-8 > .myui-vodlist__box > a[target="_blank"])
-555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com#?#.container > .row > .myui-panel-bg:has(> .myui-panel-box > .myui-panel_bd > .col-xs-1 > a[target="_blank"] > img)
-555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com##+js(abort-current-script, document.write, tips)
-555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com##.container > .row > .myui-panel-bg> .myui-panel-box > .myui-panel_bd > .myui-vodlist > .col-lg-8 > .myui-vodlist__box > a[target="_blank"]
-555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com##.myui-panel_bd > .col-xs-1 > a[target="_blank"] > img
-555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com##a[href^="https://c.madeqr.com/"][target="_blank"] > img
+555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com,555kyy.com,555dsv.com#?#.container > .row > .myui-panel-bg:has(> .myui-panel-box > .myui-panel_bd > .myui-vodlist > .col-lg-8 > .myui-vodlist__box > a[target="_blank"])
+555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com,555kyy.com,555dsv.com#?#.container > .row > .myui-panel-bg:has(> .myui-panel-box > .myui-panel_bd > .col-xs-1 > a[target="_blank"] > img)
+555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com,555kyy.com,555dsv.com##+js(abort-current-script, document.write, tips)
+555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com,555kyy.com,555dsv.com##.container > .row > .myui-panel-bg> .myui-panel-box > .myui-panel_bd > .myui-vodlist > .col-lg-8 > .myui-vodlist__box > a[target="_blank"]
+555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com,555kyy.com,555dsv.com##.myui-panel_bd > .col-xs-1 > a[target="_blank"] > img
+555dy1.com,555dy3.com,555dy6.com,555dy7.com,555dy8.com,o8tv.com,555kyy.com,555dsv.com##a[href^="https://c.madeqr.com/"][target="_blank"] > img
+||hdslb.com/bfs/album/$image,domain=o8tv.com|555kyy.com|555dsv.com
+||1256964.com^$image
 
 !【天空影视】
 ||xhoaxt.com^
@@ -226,6 +232,14 @@ tkys.tv##+js(set,acis,allpop,.noticetext)
 ||zz.bdustatic.com^
 ||tkys.tv/bctp/wybfy2.jpg$image
 ||dd-static.jd.com/ddimg/jfs/t1/98795/20/25859/243461/62592adeE9986ff67/557d188f5610d4ee.jpg$image
+
+
+! jcbdfyy.cn
+jcbdfyy.cn##marquee
+||img.jcbdfyy.cn/upload/vod/$image
+/static/player/loading.html
+jcbdfyy.cn##lelezdy,.leleplayer-logo
+6ye1.com,6ye2.com,6ye3.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
 
 !---------------------------------------------------------------------------!
 !--------------- EasyList China rules --------------------------------------!
