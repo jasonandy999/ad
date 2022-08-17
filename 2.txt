@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: L202200804
-! Version: 202200804
-! Title: 舒仪去广告202200804
+! Checksum: L202200818
+! Version: 202200818
+! Title: 舒仪去广告202200818
 ! Expires: 20 days (update frequency)
 
 !【阻止外人入侵局域网】
@@ -37,6 +37,17 @@
 ||player.bilibili.com/player.html$3p,frame,redirect=click2load.html
 ||qq.com/txp/iframe/player.html$3p,frame,redirect=click2load.html
 ||player.youku.com/embed/$3p,frame,redirect=click2load.html
+
+iqiyi.com##.detail-sd, .qy-search~*
+iqiyi.com##+js(set, Object.prototype.isSupportAI, false)
+||static.iqiyi.com/js/common/blMonitor.js
+||static.iqiyi.com/js/paoQitan/paoQitan.js
+||security.iqiyi.com/static/cook/v1/cooksdk.js
+||stc.iqiyipic.com/js/sdkpack/vippay.js
+||stc.iqiyipic.com/js/sdkpack/barrage
+! ||static.iqiyi.com/js/player_v*/skin.pc.$script
+! 要用弹幕注释下条规则
+||t7z.cupid.iqiyi.com/show$script,important
 
 !【禁止站内开天窗】
 ##+js(ra, target, base[target])
@@ -115,45 +126,45 @@
 ||zz.bdstatic.com^$script
 
 !真不卡首页弹窗广告黑背景
-!zbkyy.com,zhenbuka3.com,bukaivip.com##.layui-layer-shade
+!zbkyy.com##.layui-layer-shade
 
 !真不卡首页弹窗框架文字广告
-!zbkyy.com,zhenbuka3.com,bukaivip.com##.layui-layer-dialog.layui-layer
+!zbkyy.com##.layui-layer-dialog.layui-layer
 
 !真不卡首页文字公告
-zbkyy.com,zhenbuka3.com,bukaivip.com##.clearfix.stui-pannel-box > .stui-pannel_hd
+zbkyy.com##.clearfix.stui-pannel-box > .stui-pannel_hd
 
 !真不卡首页中间图片推广
-zbkyy.com,zhenbuka3.com,bukaivip.com##[href="/voddetail/84528"]
+zbkyy.com##[href="/voddetail/84528"]
 
-zbkyy.com,zhenbuka3.com,bukaivip.com##[src="https://r1.ykimg.com/material/0A03/A1/202106/0630/3069950/1625037029350/0D01000060DC190B3475532568394C31.jpg"]
+zbkyy.com##[src="https://r1.ykimg.com/material/0A03/A1/202106/0630/3069950/1625037029350/0D01000060DC190B3475532568394C31.jpg"]
 
 !真不卡电影介绍页面头部广告
-zbkyy.com,zhenbuka3.com,bukaivip.com##[src="https://p0.meituan.net/dpgroup/9b674d4f739482fb81c90bdbd100c6ff240825.gif"]
+zbkyy.com##[src="https://p0.meituan.net/dpgroup/9b674d4f739482fb81c90bdbd100c6ff240825.gif"]
 
 !真不卡电影播放页面播放器上面文字跑马灯
-zbkyy.com,zhenbuka3.com,bukaivip.com##.marquee_outer
-zbkyy.com,zhenbuka3.com,bukaivip.com##[src="https://p0.meituan.net/dpgroup/9b674d4f739482fb81c90bdbd100c6ff240825.gif"]
-zbkyy.com,zhenbuka3.com,bukaivip.com##[src="https://yzf.qq.com/fsnb/kf-file/kf_pic/20210412/KFPIC_1218208844_WXIMAGE_66122ef1245747f097b7cedcbb298910.gif"]
+zbkyy.com##.marquee_outer
+zbkyy.com##[src="https://p0.meituan.net/dpgroup/9b674d4f739482fb81c90bdbd100c6ff240825.gif"]
+zbkyy.com##[src="https://yzf.qq.com/fsnb/kf-file/kf_pic/20210412/KFPIC_1218208844_WXIMAGE_66122ef1245747f097b7cedcbb298910.gif"]
 
 !真不卡电影播放页面播放器载入临时广告
 ||p0.meituan.net/dpgroup/ffa3785a2fbb9a682390c9d15bd19a53602301.gif
 
 !真不卡临时杂项
-zbkyy.com,zhenbuka3.com,bukaivip.com###hth616
-zbkyy.com,zhenbuka3.com,bukaivip.com###dw118
-zbkyy.com,zhenbuka3.com,bukaivip.com###ad1
-zbkyy.com,zhenbuka3.com,bukaivip.com###hth608
-zbkyy.com,zhenbuka3.com,bukaivip.com###yb112
-zbkyy.com,zhenbuka3.com,bukaivip.com###md112
+zbkyy.com###hth616
+zbkyy.com###dw118
+zbkyy.com###ad1
+zbkyy.com###hth608
+zbkyy.com###yb112
+zbkyy.com###md112
 ##img[onclick^="window.open"][src*=".meituan.net"]
-zhenbuka3.com##+js(set,protectAd,noopFunc)
+zbkyy.com##+js(set,protectAd,noopFunc)
 mmiyue.com##+js(acis,setTimeout)
-zhenbuka3.com##.container>*:not(.row), img[onclick]
+zbkyy.com##.container>*:not(.row), img[onclick]
 ||mmiyue.com/zhenbuka2/statics/js/fuck-debugger.js
-||zhenbuka3.com/loadingbk.html$frame
+||zbkyy.com/loadingbk.html$frame
 
-.gif|$image,domain=91meijuw.com|acgndmku.com|bimiacg4.net|duboku.su|hxys.tv|kuhuiv.com|tvyb02.com|xb15.cc|zhenbuka3.com|olevod.*
+.gif|$image,domain=91meijuw.com|acgndmku.com|bimiacg4.net|duboku.su|hxys.tv|kuhuiv.com|tvyb02.com|xb15.cc|zbkyy.com|olevod.*
 
 vidhub.cc##.module > [href="https://bucd.cc/"]
 vidhub.cc##div.module > [href*="https://bucd.cc/"]
@@ -221,6 +232,18 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##+js(acis,docu
 !【天空影视】
 ||xhoaxt.com^
 tkys.tv##+js(set,acis,allpop,.noticetext)
+
+!【666影视】
+666ye.net,6ye1.com,6ye2.com,6ye3.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
+666ye.net,6ye1.com,6ye2.com,6ye3.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
+666ye.net,6ye1.com,6ye2.com,6ye3.com##.hidden-xs.hidden-sm.myui-sidebar.col-xs-1.col-md-wide-3.col-lg-wide-25 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
+666ye.net,6ye1.com,6ye2.com,6ye3.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > [href="https://xm.zluex.com/448.html"]
+666ye.net,6ye1.com,6ye2.com,6ye3.com##.hidden-xs.hidden-sm.myui-sidebar.col-xs-1.col-md-wide-3.col-lg-wide-25 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > [href="https://xm.zluex.com/448.html"]
+
+!【厂长资源】
+qianoo.cn##.gonggaop
+
+
 
 !【杂项】
 /entry/register/?
