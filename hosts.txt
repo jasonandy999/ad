@@ -11,8 +11,19 @@
 @@||wap.tplinkcloud.com.cn^$important
 @@||mercuryclouds.
 ||jpush.
+||admaster.
+||market.aliyun.com/
+||allyes.
+||cnzz.
+||coinhive.com/
 ||update.dbankcdn.com^$important
 ||flurry.com^$important
+||youxiaohou.com^$important
+||baiduyun.wiki^$important
+||zhifengi.com^$important
+||sshbhz.com^$important
+||update.googleapis.com^$important
+||ssl.gstatic.com^$important
 
 #HOSTS精简#20220818
 #https://raw.iqiq.io/jdlingyu/ad-wars/master/sha_ad_hosts
