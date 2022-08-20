@@ -4,7 +4,6 @@
 @@||luyou.gocloud.cn^$important
 @@||vanward.com^$important
 @@||update.huorong.cn^$important
-@@||dns.weixin.qq.com.cn^$important
 @@||mercuryclouds.com.cn^$important
 @@||thirdwx.qlogo.cn^$important
 @@||https://thirdwx.qlogo.cn^$important
@@ -186,8 +185,6 @@
 127.0.0.1 click2.hd.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
-127.0.0.1 pb.hd.sohu.com.cn
-127.0.0.1 pv.hd.sohu.com
 127.0.0.1 vstat.my.tv.sohu.com
 127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 wl.hd.sohu.com
