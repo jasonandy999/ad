@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: L202200818
-! Version: 202200818
-! Title: 舒仪去广告202200818
+! Checksum: L20220915
+! Version: 20220915
+! Title: 舒仪去广告20220915
 ! Expires: 20 days (update frequency)
 
 !【阻止外人入侵局域网】
@@ -175,7 +175,7 @@ vidhub.cc##div.module > [href*="https://bucd.cc/"]
 
 !港剧网影视首页头顶文字广告
 4kgj.com##.hidden-lg
-||www.zhenbuka3.com/foot/foot.js
+||www.zbkyy.com/foot/foot.js
 !港剧网影视影片介绍右边广告窗
 4kgj.com##.detail-ad
 
@@ -234,18 +234,25 @@ tvyb10.com,tvyb02.com,hktv02.com,hktv03.com,tvyb01.com,tvyb03.com##+js(acis,docu
 tkys.tv##+js(set,acis,allpop,.noticetext)
 
 !【666影视】
-666ye.net,6ye1.com,6ye2.com,6ye3.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
-666ye.net,6ye1.com,6ye2.com,6ye3.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
-666ye.net,6ye1.com,6ye2.com,6ye3.com##.hidden-xs.hidden-sm.myui-sidebar.col-xs-1.col-md-wide-3.col-lg-wide-25 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
-666ye.net,6ye1.com,6ye2.com,6ye3.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > [href="https://xm.zluex.com/448.html"]
-666ye.net,6ye1.com,6ye2.com,6ye3.com##.hidden-xs.hidden-sm.myui-sidebar.col-xs-1.col-md-wide-3.col-lg-wide-25 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > [href="https://xm.zluex.com/448.html"]
+666ye*.net,666ye.net,6ye1.com,6ye2.com,6ye3.com,6ye7.com,6ye8.com,6ye9.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
+666ye*.net,666ye.net,6ye1.com,6ye2.com,6ye3.com,6ye7.com,6ye8.com,6ye9.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
+666ye*.net,666ye.net,6ye1.com,6ye2.com,6ye3.com,6ye7.com,6ye8.com,6ye9.com##.hidden-xs.hidden-sm.myui-sidebar.col-xs-1.col-md-wide-3.col-lg-wide-25 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > div
+666ye*.net,666ye.net,6ye1.com,6ye2.com,6ye3.com,6ye7.com,6ye8.com,6ye9.com##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > [href="https://xm.zluex.com/448.html"]
+666ye*.net,666ye.net,6ye1.com,6ye2.com,6ye3.com,6ye7.com,6ye8.com,6ye9.com##.hidden-xs.hidden-sm.myui-sidebar.col-xs-1.col-md-wide-3.col-lg-wide-25 > div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1 > [href="https://xm.zluex.com/448.html"]
+|ssl.jcbdfyy.cn/d/*
+|https://ssl.jcbdfyy.cn/d/*
+||qbhdn.com^
+
 
 !【厂长资源】
 qianoo.cn##.gonggaop
+czspp.com##.gonggaop
 
-
+【TVC影视】
+|tvcys.com/style/lmjs/txt.js
 
 !【杂项】
+/pinbi.js^$script
 /entry/register/?
 /stat/rt/js?
 /get_thunder_version/?
@@ -255,7 +262,8 @@ qianoo.cn##.gonggaop
 ||zz.bdustatic.com^
 ||tkys.tv/bctp/wybfy2.jpg$image
 ||dd-static.jd.com/ddimg/jfs/t1/98795/20/25859/243461/62592adeE9986ff67/557d188f5610d4ee.jpg$image
-
+||2gether.video^$script
+||googletagmanager.com^
 
 ! jcbdfyy.cn
 jcbdfyy.cn##marquee
@@ -10696,7 +10704,7 @@ zdqx.com###play-gif
 haote.com###playBox
 tingroom.com###play_ggr
 7k7k.com###player-ad
-bljiex.com,zhenbuka3.com###player_pause
+bljiex.com,zbkyy.com###player_pause
 jyacht.com###playergg
 yxingqiu.com###playertipian
 youku.com###playlistIkuAD
