@@ -75,6 +75,7 @@
 @@||bmcx.com^
 @@||ip.taobao.com^
 @@||miwifi.com^$important
+@@||metrics1-drcn.dt.dbankcloud.cn^$important
 /^.+\.(arpa|lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
 /^[^.]+$/$dnsrewrite=NXDOMAIN
 ||dnslab*^$dnsrewrite=SERVFAIL
